@@ -1,0 +1,37 @@
+{
+  "date": "2026-02-09",
+  "headline": "王楚钦 在final中以 4-1 战胜对手",
+  "top_results": [
+    {
+      "round": "final",
+      "event": "men_singles",
+      "player_a": "王楚钦",
+      "player_b": "樊振东",
+      "score": "4-1",
+      "winner": "A",
+      "tournament_id": "wtt-grand-smash-2026-02"
+    },
+    {
+      "round": "final",
+      "event": "women_singles",
+      "player_a": "孙颖莎",
+      "player_b": "陈梦",
+      "score": "4-2",
+      "winner": "A",
+      "tournament_id": "wtt-grand-smash-2026-02"
+    }
+  ],
+  "top_news": [],
+  "chinese_players": {
+    "active_count": 4,
+    "names": [
+      "孙颖莎",
+      "樊振东",
+      "王楚钦",
+      "陈梦"
+    ]
+  },
+  "rankings_move": [],
+  "share_url": "https://x/",
+  "generated_at": "2026-09-05T17:55:57.991225"
+}
