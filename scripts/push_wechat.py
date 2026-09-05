@@ -102,6 +102,9 @@ def main() -> int:
     p = argparse.ArgumentParser()
     p.add_argument("--test", action="store_true", help="发送测试消息")
     args = p.parse_args()
+    if not WEBHOOK_URL:
+        log.info("未配置 WECHAT_WEBHOOK，跳过推送")
+        return 0
     if args.test:
         return 0 if send("# 🏓 测试消息\n乒乓资讯推送链路正常 ✅") else 1
     daily = _latest_daily()
