@@ -1,0 +1,50 @@
+[
+  {
+    "id": "m-001",
+    "tournament_id": "wtt-grand-smash-2026-02",
+    "event": "men_singles",
+    "round": "final",
+    "match_date": "2026-08-20",
+    "status": "completed",
+    "has_chinese_player": true,
+    "score_a": 4,
+    "score_b": 1,
+    "player_a": {
+      "id": "wang-chuqin",
+      "name": "Wang Chuqin",
+      "name_zh": "王楚钦",
+      "country": "CHN"
+    },
+    "player_b": {
+      "id": "fan-zhendong",
+      "name": "Fan Zhendong",
+      "name_zh": "樊振东",
+      "country": "CHN"
+    },
+    "winner": "a"
+  },
+  {
+    "id": "m-002",
+    "tournament_id": "wtt-grand-smash-2026-02",
+    "event": "women_singles",
+    "round": "final",
+    "match_date": "2026-08-21",
+    "status": "completed",
+    "has_chinese_player": true,
+    "score_a": 4,
+    "score_b": 2,
+    "player_a": {
+      "id": "sun-yingsha",
+      "name": "Sun Yingsha",
+      "name_zh": "孙颖莎",
+      "country": "CHN"
+    },
+    "player_b": {
+      "id": "chen-meng",
+      "name": "Chen Meng",
+      "name_zh": "陈梦",
+      "country": "CHN"
+    },
+    "winner": "a"
+  }
+]

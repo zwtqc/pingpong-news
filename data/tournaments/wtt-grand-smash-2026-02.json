@@ -1,0 +1,27 @@
+{
+  "id": "wtt-grand-smash-2026-02",
+  "name": "WTT Grand Smash",
+  "name_zh": "WTT 大满贯",
+  "level": "grand_smash",
+  "category": "international",
+  "start_date": "2026-08-06",
+  "end_date": "2026-08-21",
+  "location": {
+    "city": "Singapore",
+    "country": "SGP",
+    "venue": "Singapore Indoor Stadium"
+  },
+  "venue_zh": "新加坡室内体育馆",
+  "format": {
+    "type": "single_elimination"
+  },
+  "tickets": [
+    {
+      "tier": "首轮",
+      "price_zh": "¥200起",
+      "currency": "CNY"
+    }
+  ],
+  "status": "completed",
+  "updated_at": "2026-09-05T22:36:18.082916"
+}

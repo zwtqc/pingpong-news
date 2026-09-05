@@ -1,0 +1,46 @@
+{
+  "id": "m-001",
+  "tournament_id": "wtt-grand-smash-2026-02",
+  "event": "men_singles",
+  "round": "final",
+  "player_a": {
+    "id": "wang-chuqin",
+    "name": "Wang Chuqin",
+    "name_zh": "王楚钦",
+    "country": "CHN"
+  },
+  "player_b": {
+    "id": "fan-zhendong",
+    "name": "Fan Zhendong",
+    "name_zh": "樊振东",
+    "country": "CHN"
+  },
+  "score_a": 4,
+  "score_b": 1,
+  "games": [
+    {
+      "a": 11,
+      "b": 8
+    },
+    {
+      "a": 11,
+      "b": 9
+    },
+    {
+      "a": 9,
+      "b": 11
+    },
+    {
+      "a": 11,
+      "b": 7
+    },
+    {
+      "a": 11,
+      "b": 6
+    }
+  ],
+  "winner": "a",
+  "match_date": "2026-08-20",
+  "status": "completed",
+  "has_chinese_player": true
+}

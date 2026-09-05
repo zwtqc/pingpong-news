@@ -1,0 +1,27 @@
+{
+  "id": "wtt-champions-2026-02",
+  "name": "WTT Champions",
+  "name_zh": "WTT 冠军赛",
+  "level": "champions",
+  "category": "international",
+  "start_date": "2026-08-26",
+  "end_date": "2026-09-07",
+  "location": {
+    "city": "杭州",
+    "country": "CHN",
+    "venue": "杭州奥体中心"
+  },
+  "venue_zh": "杭州奥体中心体育馆",
+  "format": {
+    "type": "single_elimination"
+  },
+  "tickets": [
+    {
+      "tier": "小组赛",
+      "price_zh": "¥150起",
+      "currency": "CNY"
+    }
+  ],
+  "status": "ongoing",
+  "updated_at": "2026-09-05T22:36:18.082916"
+}

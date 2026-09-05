@@ -1,0 +1,84 @@
+{
+  "date": "2026-09-05",
+  "headline": "王楚钦 在final中以 4-1 战胜对手",
+  "top_results": [
+    {
+      "round": "final",
+      "event": "men_singles",
+      "player_a": "王楚钦",
+      "player_b": "樊振东",
+      "score": "4-1",
+      "winner": "A",
+      "tournament_id": "wtt-grand-smash-2026-02"
+    },
+    {
+      "round": "final",
+      "event": "women_singles",
+      "player_a": "孙颖莎",
+      "player_b": "陈梦",
+      "score": "4-2",
+      "winner": "A",
+      "tournament_id": "wtt-grand-smash-2026-02"
+    }
+  ],
+  "top_news": [
+    {
+      "title": "WTT 冠军赛：国乒主力悉数晋级 王楚钦顺利过关",
+      "source": "WTT官网",
+      "url": null
+    },
+    {
+      "title": "孙颖莎赛后采访：状态稳步回升 期待更专注",
+      "source": "新浪体育",
+      "url": null
+    },
+    {
+      "title": "国际乒联更新世界排名 樊振东保持前三",
+      "source": "ITTF",
+      "url": null
+    }
+  ],
+  "chinese_players": {
+    "active_count": 4,
+    "names": [
+      "孙颖莎",
+      "樊振东",
+      "王楚钦",
+      "陈梦"
+    ]
+  },
+  "rankings_move": [
+    {
+      "name": "王楚钦",
+      "rank": 1,
+      "movement": 0
+    },
+    {
+      "name": "樊振东",
+      "rank": 2,
+      "movement": 0
+    },
+    {
+      "name": "马龙",
+      "rank": 3,
+      "movement": 1
+    },
+    {
+      "name": "林高远",
+      "rank": 4,
+      "movement": -1
+    },
+    {
+      "name": "孙颖莎",
+      "rank": 5,
+      "movement": 0
+    },
+    {
+      "name": "陈梦",
+      "rank": 6,
+      "movement": 0
+    }
+  ],
+  "share_url": "",
+  "generated_at": "2026-09-05T22:36:18.101906"
+}

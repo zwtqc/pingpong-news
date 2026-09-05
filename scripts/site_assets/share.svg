@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1f36"/>
+      <stop offset="1" stop-color="#2a3160"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1050" cy="120" r="220" fill="#f5a623" opacity="0.10"/>
+  <circle cx="140" cy="520" r="180" fill="#4ad295" opacity="0.10"/>
+  <text x="90" y="250" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="110" font-weight="800" fill="#ffffff">🏓 乒乓赛事</text>
+  <text x="90" y="380" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="64" fill="#f5a623">资讯 · 每日简报</text>
+  <text x="90" y="480" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="40" fill="#9aa3c0">赛果 / 排名 / 赛制 / 场地 / 票价 / 新闻</text>
+  <text x="90" y="560" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="30" fill="#6b739b">国乒 · 中国球员 · 实时更新</text>
+</svg>

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "wang-chuqin",
+    "name": "Wang Chuqin",
+    "name_zh": "王楚钦",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 1,
+    "world_points": 7925
+  },
+  {
+    "id": "fan-zhendong",
+    "name": "Fan Zhendong",
+    "name_zh": "樊振东",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 2,
+    "world_points": 7243
+  },
+  {
+    "id": "ma-long",
+    "name": "Ma Long",
+    "name_zh": "马龙",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 3,
+    "world_points": 6850
+  },
+  {
+    "id": "lin-gaoyuan",
+    "name": "Lin Gaoyuan",
+    "name_zh": "林高远",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 4,
+    "world_points": 4810
+  },
+  {
+    "id": "sun-yingsha",
+    "name": "Sun Yingsha",
+    "name_zh": "孙颖莎",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 5,
+    "world_points": 9200
+  },
+  {
+    "id": "chen-meng",
+    "name": "Chen Meng",
+    "name_zh": "陈梦",
+    "country": "CHN",
+    "is_chinese": true,
+    "world_rank": 6,
+    "world_points": 7450
+  }
+]

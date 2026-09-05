@@ -1,0 +1,98 @@
+name: 数据管道与站点发布 (data-pipeline)
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # 每 30 分钟采集（1 小时时效保障）
+  workflow_dispatch:          # 手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: data-pipeline
+  cancel-in-progress: false
+
+jobs:
+  collect-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+    outputs:
+      data_changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 配置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 运行数据管道（实时采集 + 新闻 + 国内赛事）
+        env:
+          PP_SHARE_URL: ${{ vars.PP_SHARE_URL }}
+          PP_BASE: ${{ vars.PP_BASE }}
+          PP_SITE_URL: ${{ vars.PP_SITE_URL }}
+          PP_USE_MOCK: ${{ secrets.PP_USE_MOCK }}
+        run: python scripts/main.py
+
+      - name: 生成静态站点
+        run: python scripts/generate_site.py
+
+      - name: 数据质量校验
+        run: python scripts/validate.py
+
+      - name: 解析/管道自测
+        run: python scripts/test_pipeline.py
+
+      - name: 生成每日汇总并推送微信（如有 Webhook 配置）
+        if: ${{ secrets.WECHAT_WEBHOOK != '' }}
+        env:
+          WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}
+          PP_SHARE_URL: ${{ vars.PP_SHARE_URL }}
+        run: |
+          python -c "from build_daily import build; build(share_url='${{ vars.PP_SHARE_URL }}')"
+          python scripts/push_wechat.py
+
+      - name: 校验产出
+        run: |
+          echo "== data ==" && ls -R data | head -40
+          echo "== public ==" && ls -R public | head -40
+
+      - name: 提交采集数据到仓库
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "数据无变化"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "🤖 data: 自动采集更新 ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 上传站点到 Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy-pages:
+    runs-on: ubuntu-latest
+    needs: collect-and-build
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: 部署到 GitHub Pages
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 生成的站点（每次由 Actions 重新生成并作为 Pages 产物）
+public/
+
+# 临时/缓存
+.npmtest/
+*.log

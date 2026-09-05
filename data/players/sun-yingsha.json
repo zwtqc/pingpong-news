@@ -1,0 +1,23 @@
+{
+  "id": "sun-yingsha",
+  "name": "Sun Yingsha",
+  "name_zh": "孙颖莎",
+  "country": "CHN",
+  "is_chinese": true,
+  "world_rank": 5,
+  "world_points": 9200,
+  "titles": [
+    {
+      "tournament_id": "wtt-grand-smash-2026-02",
+      "year": "2026"
+    }
+  ],
+  "recent_matches": [
+    {
+      "date": "2026-08-21",
+      "opponent": "陈梦",
+      "score": "4-2",
+      "won": true
+    }
+  ]
+}

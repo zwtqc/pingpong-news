@@ -1,0 +1,27 @@
+{
+  "id": "china-super-league-2026",
+  "name": "China Super League",
+  "name_zh": "中国乒乓球超级联赛",
+  "level": "china_super_league",
+  "category": "domestic",
+  "start_date": "2026-09-10",
+  "end_date": "2026-10-15",
+  "location": {
+    "city": "北京",
+    "country": "CHN",
+    "venue": "首钢园"
+  },
+  "venue_zh": "首钢园",
+  "format": {
+    "type": "group+elimination"
+  },
+  "tickets": [
+    {
+      "tier": "常规赛",
+      "price_zh": "¥100起",
+      "currency": "CNY"
+    }
+  ],
+  "status": "upcoming",
+  "updated_at": "2026-09-05T22:36:18.082916"
+}
