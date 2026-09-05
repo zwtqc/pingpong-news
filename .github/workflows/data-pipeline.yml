@@ -53,14 +53,17 @@ jobs:
       - name: 解析/管道自测
         run: python scripts/test_pipeline.py
 
-      - name: 生成每日汇总并推送微信（如有 Webhook 配置）
-        if: ${{ secrets.WECHAT_WEBHOOK != '' }}
+      - name: 生成每日汇总并推送（如配置了 Webhook）
         env:
           WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}
           PP_SHARE_URL: ${{ vars.PP_SHARE_URL }}
         run: |
           python -c "from build_daily import build; build(share_url='${{ vars.PP_SHARE_URL }}')"
-          python scripts/push_wechat.py
+          if [ -n "$WECHAT_WEBHOOK" ]; then
+            python scripts/push_wechat.py
+          else
+            echo "未配置 WECHAT_WEBHOOK，跳过微信推送"
+          fi
 
       - name: 校验产出
         run: |
