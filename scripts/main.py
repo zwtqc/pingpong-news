@@ -65,13 +65,13 @@ def run(mock: bool) -> dict:
         _seed_mock_history()
 
     log.info("== 采集国际赛事 ==")
-    tournaments = fetch_calendar()
-    matches = fetch_results()
-    ranking = fetch_world_ranking()
+    tournaments = _safe(fetch_calendar, "国际赛事日历")
+    matches = _safe(fetch_results, "国际赛果")
+    ranking = _safe(fetch_world_ranking, "世界排名")
 
     log.info("== 采集新闻与国内赛事 ==")
-    news = fetch_news_data()
-    domestic = fetch_domestic()
+    news = _safe(fetch_news_data, "新闻")
+    domestic = _safe(fetch_domestic, "国内赛事")
     tournaments = tournaments + domestic
 
     log.info("== 标准化落盘 ==")
@@ -84,6 +84,15 @@ def run(mock: bool) -> dict:
     log.info("== 每日汇总 ==")
     summary = build(share_url=os.environ.get("PP_SHARE_URL", ""))
     return summary
+
+
+def _safe(fn, label):
+    """执行采集函数；出错时降级为空结果，不让整条任务崩溃。"""
+    try:
+        return fn()
+    except Exception as exc:  # noqa: BLE001
+        log.warning("采集[%s]失败，降级为空数据：%s", label, exc)
+        return []
 
 
 if __name__ == "__main__":

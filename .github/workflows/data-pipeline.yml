@@ -41,7 +41,7 @@ jobs:
           PP_SHARE_URL: ${{ vars.PP_SHARE_URL }}
           PP_BASE: ${{ vars.PP_BASE }}
           PP_SITE_URL: ${{ vars.PP_SITE_URL }}
-          PP_USE_MOCK: ${{ secrets.PP_USE_MOCK }}
+          PP_USE_MOCK: ${{ secrets.PP_USE_MOCK || '1' }}
         run: python scripts/main.py
 
       - name: 生成静态站点
