@@ -3,7 +3,7 @@
     "id": "news-mock-1",
     "title": "WTT 冠军赛：国乒主力悉数晋级 王楚钦顺利过关",
     "source": "WTT官网",
-    "published_at": "2026-09-06T01:25:46.242345",
+    "published_at": "2026-09-06T02:10:14.073053",
     "category": "result",
     "is_chinese_related": true
   },
@@ -11,7 +11,7 @@
     "id": "news-mock-2",
     "title": "孙颖莎赛后采访：状态稳步回升 期待更专注",
     "source": "新浪体育",
-    "published_at": "2026-09-05T23:25:46.242345",
+    "published_at": "2026-09-06T00:10:14.073053",
     "category": "player_news",
     "is_chinese_related": true
   },
@@ -19,7 +19,7 @@
     "id": "news-mock-3",
     "title": "国际乒联更新世界排名 樊振东保持前三",
     "source": "ITTF",
-    "published_at": "2026-09-05T21:25:46.242345",
+    "published_at": "2026-09-05T22:10:14.073053",
     "category": "official",
     "is_chinese_related": true
   }
