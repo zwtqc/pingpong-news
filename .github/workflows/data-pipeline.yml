@@ -53,15 +53,15 @@ jobs:
       - name: 解析/管道自测
         run: python scripts/test_pipeline.py
 
-      - name: 微信推送（如配置了 Webhook）
+      - name: 飞书推送（如配置了 Webhook）
         env:
-          WECHAT_WEBHOOK: ${{ secrets.WECHAT_WEBHOOK }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
           PP_SHARE_URL: ${{ vars.PP_SHARE_URL }}
         run: |
-          if [ -n "$WECHAT_WEBHOOK" ]; then
-            python scripts/push_wechat.py
+          if [ -n "$FEISHU_WEBHOOK" ]; then
+            python scripts/push_feishu.py
           else
-            echo "未配置 WECHAT_WEBHOOK，跳过微信推送"
+            echo "未配置 FEISHU_WEBHOOK，跳过飞书推送"
           fi
 
       - name: 校验产出

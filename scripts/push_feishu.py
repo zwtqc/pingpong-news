@@ -1,0 +1,138 @@
+# -*- coding: utf-8 -*-
+"""飞书（Feishu/Lark）群机器人推送：把每日汇总发到飞书群。
+
+配置：环境变量 FEISHU_WEBHOOK（飞书群机器人 webhook，形如
+      https://open.feishu.cn/open-apis/bot/v2/hook/<token>）。
+用法：
+    python scripts/push_feishu.py               # 推送今日汇总（取最新 daily）
+    python scripts/push_feishu.py --test        # 发送一条测试消息
+"""
+from __future__ import annotations
+
+import json
+import logging
+import os
+import urllib.request
+from datetime import datetime
+from pathlib import Path
+
+from config import DAILY_DIR, ROOT
+
+log = logging.getLogger("push_feishu")
+
+WEBHOOK_URL = os.environ.get("FEISHU_WEBHOOK", "")
+SHARE_URL = os.environ.get("PP_SHARE_URL", "")
+
+
+def _latest_daily() -> dict:
+    if not DAILY_DIR.exists():
+        return {}
+    files = sorted(DAILY_DIR.glob("*.json"))
+    if not files:
+        return {}
+    try:
+        return json.loads(files[-1].read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        return {}
+
+
+def build_content(daily: dict) -> str:
+    """生成飞书卡片正文（支持 lark_md 标记）。"""
+    date = daily.get("date", datetime.now().date().isoformat())
+    lines = [f"**{date} 乒乓每日简报**", ""]
+    headline = daily.get("headline") or "暂无今日头条"
+    lines.append(f"**头条**：{headline}")
+
+    results = daily.get("top_results") or []
+    if results:
+        lines.extend(["", "**今日重点赛果**："])
+        for r in results:
+            lines.append(
+                f"- {r.get('player_a','')} **{r.get('score','')}** {r.get('player_b','')}"
+                f"（{r.get('event','')} · {r.get('round','')}）"
+            )
+
+    cn = daily.get("chinese_players") or {}
+    names = cn.get("names") or []
+    if names:
+        lines.extend(["", f"**今日国乒在阵**：{'、'.join(names)}"])
+
+    moves = daily.get("rankings_move") or []
+    if moves:
+        mv = "、".join(
+            f"{m['name']} {m['rank']}名" +
+            (f"({m['movement']:+d})" if (m.get('movement') or 0) != 0 else "")
+            for m in moves
+        )
+        lines.extend(["", f"**排名**：{mv}"])
+
+    news = daily.get("top_news") or []
+    if news:
+        lines.extend(["", "**今日新闻**："])
+        for n in news:
+            lines.append(f"- [{n.get('source','')}] {n.get('title','')}")
+
+    share = daily.get("share_url") or SHARE_URL
+    if share:
+        lines.extend(["", f"[查看完整图文]({share})"])
+    return "\n".join(lines)
+
+
+def build_card(content: str) -> dict:
+    """把正文包装成飞书 interactive 卡片（v2，lark_md 渲染）。"""
+    return {
+        "msg_type": "interactive",
+        "card": {
+            "config": {"wide_screen_mode": True},
+            "header": {"title": {"tag": "plain_text", "content": "🏓 乒乓每日简报"},
+                       "template": "blue"},
+            "elements": [
+                {"tag": "div", "text": {"tag": "lark_md", "content": content}},
+                {"tag": "hr"},
+                {"tag": "note", "elements": [
+                    {"tag": "plain_text", "content": "数据来源：ITTF / WTT 官方及公开渠道 · 本站为静态资讯，仅供球迷参考"}
+                ]},
+            ],
+        },
+    }
+
+
+def send(payload: dict) -> bool:
+    if not WEBHOOK_URL:
+        log.warning("未配置 FEISHU_WEBHOOK，跳过推送")
+        return False
+    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    req = urllib.request.Request(
+        WEBHOOK_URL, data=data,
+        headers={"Content-Type": "application/json;charset=utf-8"})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            body = json.loads(resp.read().decode("utf-8"))
+            ok = body.get("code") in (0, None) or body.get("StatusCode") == 0
+            log.info("飞书推送 %s: %s", "成功" if ok else "失败", body)
+            return bool(ok)
+    except Exception as exc:  # noqa: BLE001
+        log.error("飞书推送异常: %s", exc)
+        return False
+
+
+def main() -> int:
+    import argparse
+    p = argparse.ArgumentParser()
+    p.add_argument("--test", action="store_true", help="发送测试消息")
+    args = p.parse_args()
+    if not WEBHOOK_URL:
+        log.info("未配置 FEISHU_WEBHOOK，跳过推送")
+        return 0
+    if args.test:
+        return 0 if send(build_card("**测试消息**\n飞书推送链路正常 ✅")) else 1
+    daily = _latest_daily()
+    if not daily:
+        log.warning("没有可推送的每日汇总")
+        return 1
+    return 0 if send(build_card(build_content(daily))) else 1
+
+
+if __name__ == "__main__":
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(name)s %(levelname)s %(message)s")
+    raise SystemExit(main())
