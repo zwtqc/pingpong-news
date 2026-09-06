@@ -20,9 +20,13 @@ DAILY_DIR = DATA_DIR / "daily"
 # 采集窗口：最近 3 个月
 RECENT_DAYS = 90
 
-# 站点 base 前缀（GitHub Pages 项目站需设为 "/<仓库名>"，如 "/pingpong-news"；
-# 用户站/自定义域名用空字符串 "")
+# 站点 base 前缀。
+# 优先级：显式设 PP_BASE > 在 GitHub Actions 自动按仓库名推算 > 空(根路径)。
 BASE = os.environ.get("PP_BASE", "").rstrip("/")
+if not BASE:
+    _gh_repo = os.environ.get("GITHUB_REPOSITORY", "")  # 形如 "zwtqc/pingpong-news"
+    if _gh_repo and "/" in _gh_repo:
+        BASE = "/" + _gh_repo.split("/", 1)[1].rstrip("/")
 
 # 站点完整 URL（用于 sitemap 绝对链接），如 "https://<用户>.github.io/pingpong-news"
 SITE_URL = os.environ.get("PP_SITE_URL", "").rstrip("/")

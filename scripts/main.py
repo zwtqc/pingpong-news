@@ -57,6 +57,14 @@ def _seed_mock_history() -> None:
         _std_rank(rows, d)
 
 
+def _collect_primary():
+    """采集国际赛事（赛果/排名/日历），遵守 config.USE_MOCK。"""
+    tournaments = _safe(fetch_calendar, "国际赛事日历")
+    matches = _safe(fetch_results, "国际赛果")
+    ranking = _safe(fetch_world_ranking, "世界排名")
+    return tournaments, matches, ranking
+
+
 def run(mock: bool) -> dict:
     config.ensure_dirs()
     if mock:
@@ -65,9 +73,18 @@ def run(mock: bool) -> dict:
         _seed_mock_history()
 
     log.info("== 采集国际赛事 ==")
-    tournaments = _safe(fetch_calendar, "国际赛事日历")
-    matches = _safe(fetch_results, "国际赛果")
-    ranking = _safe(fetch_world_ranking, "世界排名")
+    tournaments, matches, ranking = _collect_primary()
+
+    # 真实采集安全兜底：若核心内容(赛事+赛果)没拿到，回退演示数据，保证站点始终有内容
+    if not (mock or config.USE_MOCK):
+        if tournaments and matches:
+            log.info("真实采集成功：赛事 %d · 比赛 %d · 排名 %d",
+                     len(tournaments), len(matches), len(ranking))
+        else:
+            log.warning("真实采集核心内容不完整，自动回退演示数据")
+            config.USE_MOCK = True
+            _seed_mock_history()
+            tournaments, matches, ranking = _collect_primary()
 
     log.info("== 采集新闻与国内赛事 ==")
     news = _safe(fetch_news_data, "新闻")
