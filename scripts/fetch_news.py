@@ -74,14 +74,16 @@ def _adapt(data, source: str) -> list[dict]:
 def fetch_news() -> list[dict]:
     if config.USE_MOCK:
         return _mock_news()
-    out: list[dict] = []
+    # 主源：新浪乒乓球频道（国内平台，纯乒乓内容，已实测可用）
+    news = fetch_sina_pingpang()
+    # 追加其它配置的泛新闻源（弱依赖，容错）
     for src in config.SOURCE_CONFIG.get("news", {}).get("sources", []):
         try:
             data = _http_get(src["url"], config.SOURCE_CONFIG["news"].get("timeout", 30))
-            out.extend(_adapt(data, src["name"]))
+            news.extend(_adapt(data, src["name"]))
         except Exception as exc:  # noqa: BLE001
             log.warning("跳过新闻源 %s: %s", src["name"], exc)
-    return out
+    return news
 
 
 def _mock_news() -> list[dict]:
@@ -123,6 +125,57 @@ def fetch_domestic() -> list[dict]:
         return _mock_domestic()
     # TODO: 接入国内售票/协会/媒体源（人工核实）。当前返回空，由人工在 data/tournaments 增补。
     return []
+
+
+# ---------------------------------------------------------------------------
+# 新浪乒乓球频道：国内平台、纯乒乓内容的可靠新闻源（已实测可用）
+# ---------------------------------------------------------------------------
+SINA_PINGPANG_URL = "https://sports.sina.com.cn/others/pingpang.shtml"
+_PINGPANG_KW = [
+    "乒乓", "WTT", "国乒", "马龙", "樊振东", "孙颖莎", "林诗栋", "王楚钦",
+    "钱天一", "陈梦", "王曼昱", "陈幸同", "王艺迪", "乒超", "世乒赛", "亚运",
+]
+
+
+def fetch_sina_pingpang() -> list[dict]:
+    """抓取新浪乒乓球频道页，返回归一化新闻列表。已在本地实测可用。"""
+    import re
+    import requests
+    import hashlib
+    from datetime import datetime
+
+    out: list[dict] = []
+    try:
+        r = requests.get(SINA_PINGPANG_URL,
+                         headers={"User-Agent": config.USER_AGENT}, timeout=30)
+        if r.status_code != 200:
+            log.warning("新浪乒乓频道返回 HTTP %d", r.status_code)
+            return out
+        # 新浪页面实际为 UTF-8，但响应头标注 ISO-8859-1，需按 UTF-8 解码避免中文乱码
+        txt = r.content.decode("utf-8", errors="ignore")
+        pairs = re.findall(r'<a[^>]*href="([^"]+)"[^>]*>([^<]{6,80})</a>', txt)
+        seen = set()
+        for href, title in pairs:
+            title = re.sub(r"\s+", " ", title).strip()
+            if not title or title in seen:
+                continue
+            if "doc-" not in href:
+                continue  # 只保留文章链接
+            if not any(k in title for k in _PINGPANG_KW):
+                continue
+            seen.add(title)
+            # 从 URL 日期段提取发布日期，如 https://sports.sina.com.cn/others/pingpang/2026-08-26/doc-xxxx.shtml
+            m = re.search(r"/others/pingpang/(\d{4}-\d{2}-\d{2})/", href)
+            pub = m.group(1) if m else ""
+            nid = "news-" + hashlib.sha1((title + href).encode("utf-8")).hexdigest()[:12]
+            out.append({
+                "id": nid, "title": title, "source": "新浪体育",
+                "url": href, "published_at": pub, "category": "media",
+                "summary_zh": "", "is_chinese_related": True,
+            })
+    except Exception as exc:  # noqa: BLE001
+        log.warning("新浪乒乓频道抓取失败: %s", exc)
+    return out
 
 
 def _mock_domestic() -> list[dict]:

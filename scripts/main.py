@@ -72,22 +72,24 @@ def run(mock: bool) -> dict:
         log.info("使用演示数据（mock）模式")
         _seed_mock_history()
 
+    log.info("== 采集新闻（新浪乒乓球频道，真实可用） ==")
+    news = _safe(fetch_news_data, "新闻")
+
     log.info("== 采集国际赛事 ==")
     tournaments, matches, ranking = _collect_primary()
 
-    # 真实采集安全兜底：若核心内容(赛事+赛果)没拿到，回退演示数据，保证站点始终有内容
+    # 真实采集安全兜底：国际赛果/排名被 Cloudflare 挡时，仅回退演示赛事/排名，不影响已抓到的真实新闻
     if not (mock or config.USE_MOCK):
         if tournaments and matches:
             log.info("真实采集成功：赛事 %d · 比赛 %d · 排名 %d",
                      len(tournaments), len(matches), len(ranking))
         else:
-            log.warning("真实采集核心内容不完整，自动回退演示数据")
+            log.warning("真实采集核心内容不完整，仅回退演示赛事/排名（新闻保留真实）")
             config.USE_MOCK = True
             _seed_mock_history()
             tournaments, matches, ranking = _collect_primary()
 
-    log.info("== 采集新闻与国内赛事 ==")
-    news = _safe(fetch_news_data, "新闻")
+    log.info("== 采集国内赛事 ==")
     domestic = _safe(fetch_domestic, "国内赛事")
     tournaments = tournaments + domestic
 
