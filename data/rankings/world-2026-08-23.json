@@ -1,0 +1,56 @@
+[
+  {
+    "rank": 1,
+    "player_id": "sun-yingsha",
+    "name_zh": "孙颖莎",
+    "name": "Sun Yingsha",
+    "country": "CHN",
+    "points": 9026,
+    "movement": 0
+  },
+  {
+    "rank": 2,
+    "player_id": "wang-chuqin",
+    "name_zh": "王楚钦",
+    "name": "Wang Chuqin",
+    "country": "CHN",
+    "points": 7938,
+    "movement": 0
+  },
+  {
+    "rank": 3,
+    "player_id": "chen-meng",
+    "name_zh": "陈梦",
+    "name": "Chen Meng",
+    "country": "CHN",
+    "points": 7472,
+    "movement": 0
+  },
+  {
+    "rank": 4,
+    "player_id": "fan-zhendong",
+    "name_zh": "樊振东",
+    "name": "Fan Zhendong",
+    "country": "CHN",
+    "points": 7360,
+    "movement": 0
+  },
+  {
+    "rank": 5,
+    "player_id": "ma-long",
+    "name_zh": "马龙",
+    "name": "Ma Long",
+    "country": "CHN",
+    "points": 6772,
+    "movement": 0
+  },
+  {
+    "rank": 6,
+    "player_id": "lin-gaoyuan",
+    "name_zh": "林高远",
+    "name": "Lin Gaoyuan",
+    "country": "CHN",
+    "points": 4744,
+    "movement": 0
+  }
+]
