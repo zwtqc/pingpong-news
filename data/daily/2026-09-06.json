@@ -21,7 +21,13 @@
       "tournament_id": "wtt-grand-smash-2026-02"
     }
   ],
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "WTT 冠军赛：国乒主力悉数晋级 王楚钦顺利过关",
+      "source": "WTT官网",
+      "url": null
+    }
+  ],
   "chinese_players": {
     "active_count": 4,
     "names": [
@@ -64,5 +70,5 @@
     }
   ],
   "share_url": "https://zwtqc.github.io/pingpong-news/",
-  "generated_at": "2026-09-06T00:07:30.216132"
+  "generated_at": "2026-09-06T02:03:44.793200"
 }
