@@ -464,6 +464,102 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-081f15123e55",
+    "title": "9月8日隔夜要闻：美股周一休市 油价上涨 美总统特使称美代表团访俄乌取得“实质性进展”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f72c8d67aebf",
+    "title": "道指期货下跌300点，油价攀升至六周高位",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ba4cf67b3a45",
+    "title": "NTSB：亚马逊货机迈阿密坠毁，冲出跑道1300英尺，撞击两车致5死5伤",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-90ea5ab411c9",
+    "title": "SpaceX欧洲挑战者崛起：Isar Aerospace首飞成功，订单储备超100亿欧元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fc8165eeaa37",
+    "title": "国际农产品期价普遍走高 国内板块同步走强",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-159ce0f9007b",
+    "title": "9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机 加拿大拟对数百种美国商品征收关税 伦敦期铜创出新高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b88cc666fcd6",
+    "title": "攀升的油价令投资者态度谨慎 美股期货在清淡的假日交投中下跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-54791a4d6b2b",
+    "title": "伦敦期铜触及每吨14533美元纪录高位 关税揣测搅动市场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-531c60c8f2a8",
+    "title": "泽连斯基：美国正探索俄乌冬季降级措施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-04efe7dcc7f9",
+    "title": "OpenAI首席科学家称AI或很快迈入自我进化阶段 期望业界自愿放缓开发",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-dc9426e60cfa",
+    "title": "美国家运输安全委员会：冲出跑道的波音货机黑匣子已找到",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d583e29f5cf3",
+    "title": "美军称对伊海上封锁已使94艘商船改变航向",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-5fc4673e50a3",
     "title": "美加贸易战恐升级 特朗普威胁要禁售庞巴迪飞机",
     "source": "新浪体育",
@@ -474,6 +570,14 @@
   {
     "id": "news-0f8a83ce4546",
     "title": "美加贸易战恐愈打愈烈 卡尼组合拳蓄势待发而特朗普又抛新威胁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1b0b98600c92",
+    "title": "欧洲四大电信巨头密谋组团 拟竞标卫星频谱挑战马斯克星链",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -496,6 +600,30 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-ef66900cdc1d",
+    "title": "六部门部署完善乡村振兴投入机制 促进“三农”领域投入结构不断优化",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1986cce60bd0",
+    "title": "芬兰完成芬俄边境围栏系统建设 未来或扩建",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bce230f23d91",
+    "title": "扎波罗热核电站外部供电已恢复",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-fb7c85cbe7f6",
     "title": "德意志银行策略师称交易员错估了美欧央行加息的力度",
     "source": "新浪体育",
@@ -506,6 +634,46 @@
   {
     "id": "news-49b1352260cd",
     "title": "伊朗与美国相互攻击，沙特阿美设施遭袭，油价升至六周高点",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9e5e281392e0",
+    "title": "特朗普威胁在美禁售加拿大庞巴迪产品",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6668356b83a0",
+    "title": "哈马斯：以色列清理加沙废墟旨在抹除“战争罪证”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-95bfde36debc",
+    "title": "生猪价格8月延续弱势 养殖企业营收承压",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-de41c8ed5f5b",
+    "title": "伊朗公布一款新型导弹",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-414ac460ee79",
+    "title": "英首相与美总统通电话 讨论俄乌冲突等议题",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -530,174 +698,6 @@
   {
     "id": "news-cdb2a447c176",
     "title": "欧洲债市：德债五连跌 各期限英债收益率走高约4个基点",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-09e990b23b6c",
-    "title": "卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡 出口恢复信号增强",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-00478a2fc74a",
-    "title": "知情人士称沙特阿美位于吉赞的石油设施再次遭到袭击",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-aba235a38a0e",
-    "title": "关税揣测搅动市场 伦敦期铜创出新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-70539428306c",
-    "title": "伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-90d071b2529c",
-    "title": "加拿大势将对数百种美国商品加征关税 卡尼拟借强硬立场增加谈判筹码",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8145a4dde58d",
-    "title": "居英富豪外流再添新例 对冲基金创始人Chris Rokos转居希腊",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9a2368a59b3f",
-    "title": "美国就伊朗未遵守核相关义务加大外交施压力度",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-89f6d3c3b50e",
-    "title": "美国大型高校捐赠基金跑赢标普500指数",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e5fe5c1f7a05",
-    "title": "16天8板！金健米业上半年营收增长25%，但净利转亏",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-91d881c26fa6",
-    "title": "“人民币政府”、“熊源”！新任董事长邹来昌“首秀”即翻车？紫金矿业半年报三处低级错误拷问治理成色",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ee7472aff05f",
-    "title": "20cm跌停，市值腰斩！谁在抛售“中国版英伟达”？还有更大压力！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2e32aac2ba86",
-    "title": "俄罗斯下令关闭德国驻圣彼得堡总领事馆 两国争端持续升级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4892fe978ba0",
-    "title": "南非二季度农产品出口同比增长10%，至41亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-cdd280b7094a",
-    "title": "002361，副总经理被证监会立案调查",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ccd44ffc7452",
-    "title": "江波龙H股定价打骨折，14家基石组团捡漏",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8bc1b870f2a9",
-    "title": "特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c02f3447b399",
-    "title": "OpenAI首席科学家警告：无人准备好机器智能快速崛起的后果",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b7b0023b9795",
-    "title": "大众汽车达成协议：工厂将由造车转为生产防空装备",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b6a94481d591",
-    "title": "奥迪发布纯电掀背A2 e-tron，宣称品牌史上最省电",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4991b304a3d9",
-    "title": "大众汽车就奥斯纳布吕克工厂转作防务枢纽达成框架协议",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e9a0f65362e6",
-    "title": "日元兑美元升至2月以来最高",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
