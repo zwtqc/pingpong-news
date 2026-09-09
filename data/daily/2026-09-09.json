@@ -1,5 +1,5 @@
 {
-  "date": "2026-02-09",
+  "date": "2026-09-09",
   "headline": "王楚钦 在final中以 4-1 战胜对手",
   "top_results": [
     {
@@ -31,7 +31,38 @@
       "陈梦"
     ]
   },
-  "rankings_move": [],
-  "share_url": "https://x/",
-  "generated_at": "2026-09-09T00:01:38.403853"
+  "rankings_move": [
+    {
+      "name": "王楚钦",
+      "rank": 1,
+      "movement": 0
+    },
+    {
+      "name": "樊振东",
+      "rank": 2,
+      "movement": 0
+    },
+    {
+      "name": "马龙",
+      "rank": 3,
+      "movement": 1
+    },
+    {
+      "name": "林高远",
+      "rank": 4,
+      "movement": -1
+    },
+    {
+      "name": "孙颖莎",
+      "rank": 5,
+      "movement": 0
+    },
+    {
+      "name": "陈梦",
+      "rank": 6,
+      "movement": 0
+    }
+  ],
+  "share_url": "https://zwtqc.github.io/pingpong-news/",
+  "generated_at": "2026-09-09T00:01:37.895382"
 }
