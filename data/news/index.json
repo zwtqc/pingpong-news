@@ -464,6 +464,142 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-7fac98cdf5fa",
+    "title": "特朗普政府住房事务负责人强调削减监管以助力购房者",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-edf601fc81fc",
+    "title": "澳大利亚国债收益率升至2011年以来最高水平 追随美债走势",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9f1c709f0151",
+    "title": "加拿大总理卡尼称美国贸易禁令相对温和 暗示不会采取报复措施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9254c3926477",
+    "title": "美国司法部就快船队与球星的相关交易展开调查",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3a95329df413",
+    "title": "SpaceX CFO：将由星舰送入轨道的首批升级版Starlink卫星料带来收入",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ed46d06c0d51",
+    "title": "Adobe本财季营收展望略逊预期 AI冲击担忧挥之不去",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-06ccf0060183",
+    "title": "贝森特称美国周一将制裁一家“大银行”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-28f7f2c1e3b0",
+    "title": "【沥燃日报】高硫-SC裂解大幅回落至年内低点，沥青裂解相对坚挺",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-afc8bcd906b5",
+    "title": "油价狂飙！单日大涨9美元刷新下半年单日最大涨幅",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9a5e0455ea9c",
+    "title": "9月11日隔夜要闻：美股四连跌 油价持续上涨 美债收益率创新高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2d1efffb34ec",
+    "title": "微软推进数据中心扩张 计划将算力扩大两倍",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-75c0fec43d8a",
+    "title": "AI需求推动甲骨文云业务营收超预期增长 股价盘后大涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b9df95b9b1e1",
+    "title": "特朗普称派发5000美元无需国会批准",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ebafc3518a84",
+    "title": "9月11日外盘头条：美债收益率升至多年高位 中东冲突加剧原油供应担忧 美国生产者价格创三个月最大涨幅",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a12a795f6587",
+    "title": "美国股市：标普500指数连续第四天下跌 投资者的加息预期增强",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-dd70412cff35",
+    "title": "美债收益率升至多年高位 吸引买家参与30年期国债拍卖",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-70c72ae6f8ed",
+    "title": "9月11日美股成交额前20：苹果收涨3.56% 此前发布会上发布了新品iPhone Duo",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-64bc6c52da99",
     "title": "9月11日热门中概股多数下跌，阿里巴巴跌0.77%，百度跌1.56%",
     "source": "新浪体育",
@@ -544,160 +680,24 @@
     "is_chinese_related": false
   },
   {
-    "id": "news-adf261781e66",
-    "title": "英伟达CEO黄仁勋称网络安全将成AI下一个重大市场",
+    "id": "news-297acdd5b148",
+    "title": "厄尔尼诺扰动下 农业产业链以创新筑牢稳产根基",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-03fdebc3088c",
-    "title": "美国财政部长债实际回购规模低于上限 10年期收益率进一步走高",
+    "id": "news-40fe5b49b90a",
+    "title": "热轧卷板、不锈钢、低硫燃料油期权上市 上海衍生品体系加速完善匹配实体企业精细化风险管理需求",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-dd3c4e97b44d",
-    "title": "像分析师一样做研究 OpenAI推出专为金融业者打造的人工智能工具",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b64eb39d649c",
-    "title": "美国30年期国债标售认购需求强劲 中标收益率创2001年以来新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9a2e847e5340",
-    "title": "欧洲天然气价格飙升至2022年以来最高水平 连续五天上涨",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3a5b682db54d",
-    "title": "高盛精英俱乐部再少一员 长期力挺美国优势的Mossavar-Rahmani将退休",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-28e7e845d8e9",
-    "title": "欧洲股市连续第三天下跌 投资者的通胀担忧加剧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-64212d2682df",
-    "title": "沙特原油日产量骤降190万桶 创1990年以来新低",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-feef3c460f32",
-    "title": "美银策略师警告AI驱动的股票风险 呼吁投资者“现在”就对冲",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-52d8c7f316f4",
-    "title": "美国国防部首席技术官驳斥Anthropic研究员的AI风险警告",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ee1adb3d8152",
-    "title": "关税、能源与AI热潮推高物价，美联储加息难解近忧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7e0254eb0000",
-    "title": "梅西百货押注高价商品，争夺高收入消费群体",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-772967f1098a",
-    "title": "捷蓝航空因恶劣天气与燃油成本上调，下调运力增长预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-73147e650631",
-    "title": "美国周四抵押贷款利率突破 7% 最新房贷与再融资利率",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d0b8132b0624",
-    "title": "SpaceX股价走高：数据中心建设模式大调整，英国潜在国防订单引市场关注",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-636bed94fcac",
-    "title": "iPhone Duo双机型发布会，苹果把AI战略推到舞台中央",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4f64a24156df",
-    "title": "拥有49年历史的人气披萨餐饮连锁悄然关闭多家门店",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1cfe61aff4ff",
-    "title": "富国银行：SpaceX无线业务将冲击传统运营商，而铁塔房地产投资信托基金将“悄然”获利",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c9a4105586f1",
-    "title": "欧洲债市：德国国债收益率升至17年高点 欧洲央行加息押注加码",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-748956dbd699",
-    "title": "法国极左翼提议注销央行所持债务 欧洲央行行长称金融层面很危险",
+    "id": "news-9647811c071d",
+    "title": "主产国减产预期升温 厄尔尼诺成国际糖价催化剂",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
