@@ -5,8 +5,8 @@
     "name_zh": "WTT 大满贯",
     "level": "grand_smash",
     "category": "international",
-    "start_date": "2026-08-10",
-    "end_date": "2026-08-25",
+    "start_date": "2026-08-11",
+    "end_date": "2026-08-26",
     "status": "completed",
     "venue_zh": "新加坡室内体育馆"
   },
@@ -16,8 +16,8 @@
     "name_zh": "WTT 冠军赛",
     "level": "champions",
     "category": "international",
-    "start_date": "2026-08-30",
-    "end_date": "2026-09-11",
+    "start_date": "2026-08-31",
+    "end_date": "2026-09-12",
     "status": "ongoing",
     "venue_zh": "杭州奥体中心体育馆"
   },
@@ -27,8 +27,8 @@
     "name_zh": "中国乒乓球超级联赛",
     "level": "china_super_league",
     "category": "domestic",
-    "start_date": "2026-09-14",
-    "end_date": "2026-10-19",
+    "start_date": "2026-09-15",
+    "end_date": "2026-10-20",
     "status": "upcoming",
     "venue_zh": "首钢园"
   }

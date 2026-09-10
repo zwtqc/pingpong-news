@@ -4,8 +4,8 @@
   "name_zh": "WTT 大满贯",
   "level": "grand_smash",
   "category": "international",
-  "start_date": "2026-08-10",
-  "end_date": "2026-08-25",
+  "start_date": "2026-08-11",
+  "end_date": "2026-08-26",
   "location": {
     "city": "Singapore",
     "country": "SGP",
@@ -23,5 +23,5 @@
     }
   ],
   "status": "completed",
-  "updated_at": "2026-09-09T22:42:25.446004"
+  "updated_at": "2026-09-10T00:51:46.833246"
 }
