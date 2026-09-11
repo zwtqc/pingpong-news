@@ -464,6 +464,102 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-623ca5bada0b",
+    "title": "沙特东西输油管道在遭多次袭击后被预防性关闭",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ef7a0e2b89f2",
+    "title": "美联储面临巨大加息压力 沃什到了必须“拿出行动的”时候",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e926a846f598",
+    "title": "美国2026财年前11个月预算赤字达到1.97万亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f85fd94e6236",
+    "title": "美国8月份预算赤字1668亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6a7d719f2a93",
+    "title": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bf4dac1f1ebf",
+    "title": "沙特阿拉伯输油管道系统周四遭袭击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b5bd5b09526a",
+    "title": "美股反弹推动美国上季度家庭净资产大增",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3c733e6cd08c",
+    "title": "美国第二季度家庭净资产创纪录环比增加12.803万亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a881a752be28",
+    "title": "欧洲股市周五反弹 仍创下7月份以来最差单周表现",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cc6b15e860b1",
+    "title": "美联储下周加息几成定局 手机资费大涨或是关键推手",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3a8173fe58f1",
+    "title": "上海再出重磅规划！30年的城市大扩张，要彻底转向了",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6bb5551c29e0",
+    "title": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-9fde9b2a79ab",
     "title": "知名策略师认为美国中期选举前汽油价格达到5美元的风险“极高”",
     "source": "新浪体育",
@@ -602,102 +698,6 @@
   {
     "id": "news-eacead761911",
     "title": "美国核心CPI高于预期 美股期指震荡",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c33503d2efd1",
-    "title": "美国8月通胀维持3.4%不变，燃油价格持续高企",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1ab61fb9cb2e",
-    "title": "美国8月通胀率3.4% 汽油价格依旧高企",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4efdaa108eac",
-    "title": "美国8月CPI环比上涨0.4%，核心通胀高于预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-241e8b4f0508",
-    "title": "Kalshi拟持续扩张快速增长的高风险交易品类",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c4b442aec329",
-    "title": "天龙三号首飞失利，原因公布",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-061781182b81",
-    "title": "受伊朗供给冲击影响 美国柴油价格创纪录触及每加仑6美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c6cc7d48284d",
-    "title": "Anthropic发现Claude遭中俄伊朗等地用户滥用 包括用于武器研发等",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-94133a33a7d5",
-    "title": "*ST卓然严重财务造假，将启动退市程序",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-83083ae90c08",
-    "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9d71154638d4",
-    "title": "老板增持1.3亿，老板娘减持23.5亿，海底捞唱哪出？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-924e76a70705",
-    "title": "李强主持召开国务院常务会议 研究算力网建设有关工作",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ccf3ea9ef28a",
-    "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
