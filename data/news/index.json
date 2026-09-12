@@ -464,6 +464,54 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-afd40e9878ff",
+    "title": "环球一周展望：加息潮在G7蔓延 市场聚焦美联储主席沃什",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5fe335a45710",
+    "title": "美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e269c86a0a81",
+    "title": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2c30d3dd7933",
+    "title": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ba8f3733a6fc",
+    "title": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-93264afca8d9",
+    "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-9038b1ce63ab",
     "title": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
     "source": "新浪体育",
@@ -480,6 +528,22 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-0dea28242766",
+    "title": "沙特称也门胡塞武装袭击造成2人受伤",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9677bea95d75",
+    "title": "伊朗南部格什姆岛方向传出爆炸声",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-3bde45f46bad",
     "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
     "source": "新浪体育",
@@ -488,8 +552,32 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-fece03ae727c",
+    "title": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2bff22dd2a6d",
+    "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-cb384bde50f9",
     "title": "SpaceX在纳斯达克100指数中的权重将获上调",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7e6e011d9c1c",
+    "title": "胡塞武装称沙特对也门发动129次空袭",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -610,94 +698,6 @@
   {
     "id": "news-3265663981a6",
     "title": "中国将于2027年接任金砖主席国",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-16fd7206a3e2",
-    "title": "个人消费贷贴息政策提额扩围",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4f3ac2494245",
-    "title": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-452275156e0d",
-    "title": "12.5亿长三角联合基金来了，官方详解怎么投、投向哪",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ab76fc1747c0",
-    "title": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-21b7df58f985",
-    "title": "索要数百克黄金！打假网红“铁头”被判8年，宣判现场有人叫嚣“不服”，曾对商户放言“你是我的金山银山”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-37c415ed4796",
-    "title": "今年卖家电，谁最赚钱？这些家电，卖不动了",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b2ba2e0d7783",
-    "title": "期货公司监管办法发布，境内子公司不得再设立子公司",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a5123ea8cb69",
-    "title": "“支付宝假APP”上热搜！支付宝回应",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-396055aee93b",
-    "title": "通胀时代怎么办？痴迷AI的华尔街坚定不移",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4deea29c57fd",
-    "title": "猪价震荡调整，机构称年内猪价低点基本已明确",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2586cae70a8c",
-    "title": "支付宝，紧急回应",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
