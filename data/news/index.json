@@ -464,6 +464,54 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-d86cc40f88e1",
+    "title": "受沙特输油管道停运影响 亚洲能源股或将跟随油价上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f71cc5c20668",
+    "title": "人工智能增速放缓 韩国综合股价指数和日经指数或将面临资本支出波动",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a85e6609a019",
+    "title": "媒体：Anthropic 本季度将实现调整后营业利润",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-36bc59294ae8",
+    "title": "9月14日周末要闻：沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6f9ff2b2e01c",
+    "title": "标普500股指期货下跌，霍尔木兹海峡会议推迟推动油价走高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-696832ec6fe9",
+    "title": "沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-778a8e8cfde9",
     "title": "聚焦AI安全大讨论：AI巨头罕见呼吁放慢脚步 华盛顿分歧浮现",
     "source": "新浪体育",
@@ -472,8 +520,48 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-52bedb5cfcd0",
+    "title": "胡塞武装称沙特24小时内58次空袭也门",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-038b458de0e1",
     "title": "Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d1a6163be3cd",
+    "title": "阿曼外交部：原定于14日举行的地区会议延期",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fca090fb1198",
+    "title": "伊拉克一化肥厂发生氨气泄漏已致2死50伤",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-737e980268b4",
+    "title": "莱茵河低水位或致德国巨额经济损失",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-de88fd9c2337",
+    "title": "多家银行收紧个人贵金属业务，原因何在？",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -490,6 +578,14 @@
   {
     "id": "news-ca23d5af3aaf",
     "title": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6186146e7297",
+    "title": "也门政府军称胡塞武装攻势致双方伤亡数千人",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -522,6 +618,14 @@
   {
     "id": "news-0fc7a3ad2f28",
     "title": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-46aeef813a0c",
+    "title": "特朗普称已要求乌克兰停止袭击俄柴油燃料设施",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -594,110 +698,6 @@
   {
     "id": "news-2ae7690592ba",
     "title": "比亚迪利润奖停发传闻发酵，员工称多项福利此前已收紧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-86110dfeb667",
-    "title": "汉港控股获主席及主要股东汪林冰增持768.4万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3d77580ecebf",
-    "title": "北森控股于9月11日斥资149.95万港元回购50万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-36d2135549af",
-    "title": "凌雄科技于9月11日斥资约226.29万港元回购12万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1b6adf66aadb",
-    "title": "国联民生于9月11日斥资2785.85万元回购320万股A股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c37f32a7c294",
-    "title": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a5c40aec3edf",
-    "title": "深圳国际：完成发行2026年中期票据(第四期)",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7f754c61691b",
-    "title": "华虹宏力发行1.91亿股代价股份",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5f48a279871c",
-    "title": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-86ae7bfb6716",
-    "title": "兴业合金授出1600万股奖励股份",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-cd0e56c9ecce",
-    "title": "加拿大据报寻求成为欧盟“联系成员”，拟推动关键领域深度整合",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7aeaafcb0dce",
-    "title": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6c32d79cb077",
-    "title": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c3cfafd58741",
-    "title": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
