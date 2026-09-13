@@ -464,6 +464,54 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-3f7fab6d2357",
+    "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0fc7a3ad2f28",
+    "title": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c0e0231c5ffc",
+    "title": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-043c0113bb56",
+    "title": "今夜，突发公告！两只大牛股，紧急发声：不属实！",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e4c693b18792",
+    "title": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-411c8eaceb2d",
+    "title": "智谱募资50亿美元：多家长线基金加持 用于下一代GLM研发",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-a3dc0de81ff2",
     "title": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
     "source": "新浪体育",
@@ -650,54 +698,6 @@
   {
     "id": "news-c311758bd36d",
     "title": "小摩：汇丰控股维持“增持”评级 目标价205港元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2640ab79fe2f",
-    "title": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1dfa0f5cd516",
-    "title": "里昂：江南布衣维持“跑赢大市”评级 目标价25港元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-824354524d6c",
-    "title": "交银国际：中金公司目标价上调至28.5港元 维持“买入”评级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-13b118d1f68a",
-    "title": "拉里·埃里森取消最高75亿美元甲骨文股票出售计划",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-37be8488960a",
-    "title": "大摩：宁德时代受惠电池反内卷 上半年产能利用率95%远超行业",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-98e9b4508af6",
-    "title": "花旗：中国铁建目标价下调至5.5港元 维持“买入”评级",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
