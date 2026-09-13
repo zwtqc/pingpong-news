@@ -464,6 +464,38 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-f765f804c817",
+    "title": "法国计划削减300亿欧元预算支出以控制财政赤字",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ca23d5af3aaf",
+    "title": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c0e61988938c",
+    "title": "伊朗据称周一公布霍尔木兹海峡临时航道协议 特朗普表示不在乎",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ecdea9303120",
+    "title": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-3f7fab6d2357",
     "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
     "source": "新浪体育",
@@ -666,38 +698,6 @@
   {
     "id": "news-eebbe45381fc",
     "title": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-87b4e69415cb",
-    "title": "世茂集团前8个月累计合约销售总额约97.21亿元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-134aa1461608",
-    "title": "渣打集团于9月10日斥资812.47万英镑回购35.8万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-41dd15dba42c",
-    "title": "花旗：创科实业维持“买入”评级 目标价168港元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c311758bd36d",
-    "title": "小摩：汇丰控股维持“增持”评级 目标价205港元",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
