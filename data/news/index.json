@@ -464,6 +464,22 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-778a8e8cfde9",
+    "title": "聚焦AI安全大讨论：AI巨头罕见呼吁放慢脚步 华盛顿分歧浮现",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-038b458de0e1",
+    "title": "Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-f765f804c817",
     "title": "法国计划削减300亿欧元预算支出以控制财政赤字",
     "source": "新浪体育",
@@ -682,22 +698,6 @@
   {
     "id": "news-c3cfafd58741",
     "title": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-741b4458b24b",
-    "title": "腾讯控股于9月11日斥资1亿港元回购23.5万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eebbe45381fc",
-    "title": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
