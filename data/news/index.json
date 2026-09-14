@@ -464,6 +464,174 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-71824c4b2e26",
+    "title": "9月15日隔夜要闻：欧美股指收跌 油价上涨 10年期美债收益率突破5% 华尔街大行股价重挫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-867236437f6f",
+    "title": "城堡证券认为增长疲弱或将压制欧洲债券收益率上行空间",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0e2b30d49edf",
+    "title": "美联储加息如何冲击美股？MRA策略师料标普500指数第一波就要大跌10%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e6bf0b76fc55",
+    "title": "大宗商品综述：油价涨 沙特管道停运引发担忧 加息押注加码 铜金跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0bc0d6480bcc",
+    "title": "泽连斯基：在美国提出方案后 乌克兰准备支持局势降温",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0de6d87a7fe7",
+    "title": "美国股市：主要股指集体下挫 AI开发放缓担忧与通胀忧虑夹击市场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-92345f807f21",
+    "title": "9月15日外盘头条：特朗普驳斥放缓AI发展呼声 芯片股重挫 苹果发布SiriAI Anthropic推出财务顾问Claude产品",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b2b799516154",
+    "title": "美银预计Q3投行业务费用将下滑逾10% 股价大跌5%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d7f64f2ad4a6",
+    "title": "伊朗南部两艘渔船遭无人机袭击 多名渔民失踪",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-667c52b9a05e",
+    "title": "原油：布伦特期货上涨 沙特输油管道停运带来供应风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-11b489f401ab",
+    "title": "纽约汇市：美元指数涨幅收窄 日元走弱",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5ebc9977c024",
+    "title": "9月15日美股成交额前20：英伟达跌超3% 多家美国顶尖AI企业CEO呼吁放缓技术发展",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3a4446f3a9d8",
+    "title": "美国以俄罗斯外贸银行协助伊朗规避制裁为由对其进行制裁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b2b75ec373b0",
+    "title": "9月15日热门中概股涨跌不一 理想涨超3% 拼多多跌超2%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-15df3781c3e7",
+    "title": "9月15日美股收盘：三大股指普跌 英伟达跌超3%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-44360d780f5e",
+    "title": "沙特请求英国提供军事与外交支持 应对胡塞武装攻势",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7fbb806629d6",
+    "title": "特朗普在共和党大会期间会见OpenAI CEO",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6f1f250806af",
+    "title": "伊朗称一艘超级油轮在霍尔木兹海峡触雷",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f4f631431ead",
+    "title": "苹果在iPhone18本周上市前，发布重新设计的SiriAI测试版",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-069e2e450c4f",
+    "title": "Anthropic面向财务顾问推出Claude产品 深化金融业布局",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f9997264a620",
+    "title": "逆势押注10年期收益率触5% 神准分析师认为美债的抛售还没完",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-317e327d1e43",
     "title": "特朗普宣称俄乌同意停止攻击能源设施 基辅方面说此事言之过早",
     "source": "新浪体育",
@@ -528,176 +696,8 @@
     "is_chinese_related": false
   },
   {
-    "id": "news-564501b5c276",
-    "title": "欧洲股市下跌 AI概念股遭抛售、能源成本攀升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c5dfb26dccc5",
-    "title": "特朗普：美国目前生产的精尖武器比以往任何时候都多",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d83c272bc481",
-    "title": "微软加入AI企业行列，呼吁审慎对待前沿尖端模型",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6d772d7128df",
-    "title": "欧洲债市：交易员加码欧洲央行和英国央行加息押注 油气价格飙升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4ee93b57e00b",
-    "title": "泽连斯基：乌克兰愿意停止攻击能源设施 前提是俄罗斯也停手",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9e4df4cbec55",
-    "title": "特朗普：那些没有施以援手的国家应在伊朗战争后补偿美国",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5545b46da861",
-    "title": "惠誉：美国私募信贷违约率升至6.3% 创下纪录新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c18b03a60380",
-    "title": "Anthropic上市计划不会因AI安全舆论风波推迟",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-95d1dea56191",
-    "title": "马斯克：我早已为人工智能风险多次敲响警钟",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-37c869b06a31",
-    "title": "特朗普驳斥放缓人工智能发展的呼声，称存在针对AI与数据中心的“阴谋”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-afc91745d9b2",
-    "title": "微软发布AI模型开发宣言 核心原则是“人比AI更重要”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-244c211438d6",
-    "title": "特朗普称他将就否重启与伊朗和平谈判做出决定",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-974f443c80c7",
-    "title": "加拿大总理卡尼呼吁设立全球性技术稳定委员会以加强AI安全防护",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e37068ea0fec",
-    "title": "这款开市客商品两年价格暴涨125%，这家零售巨头现已对会员实施限购",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f2f20df993f4",
-    "title": "10年期美债收益率自2023年以来首次突破5%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-046674573db1",
-    "title": "10年期美债收益率突破5% 美元势创6月以来最大涨幅",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bb327068d029",
-    "title": "特朗普称柴油上涨与伊朗战争无关 俄乌已同意停止攻击对方能源目标",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-18a2efe6b386",
-    "title": "10年期美债收益率三年来首次升破5% 通胀和融资担忧双重夹击",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7cd9967959fb",
-    "title": "特朗普称俄罗斯和乌克兰同意停止对能源目标的互袭",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fffca73767ca",
-    "title": "能源价格上涨推高通胀担忧 交易员加码押注英国央行和欧洲央行加息",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-779bfa293cc7",
-    "title": "欧洲航天初创企业掀起融资热潮，力图挑战美国主导地位",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eceb8638bce8",
-    "title": "美银的Subramanian将标普500指数年底目标上调至7400点",
+    "id": "news-b655905f16bc",
+    "title": "特朗普：AI毁灭人类的说法属于骗局",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
