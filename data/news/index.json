@@ -464,6 +464,150 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-4741055ab651",
+    "title": "贝森特称美国在日元干预行动中所花费用“微不足道” 但赚到数千万美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a4fc7e584c74",
+    "title": "欧洲股市小幅下跌 油价和收益率升势缓和",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2aa70d396302",
+    "title": "摩根大通预计第三季度投资银行和交易业务将实现增长",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-222b897bb24d",
+    "title": "加密货币法案折戟美国参议院 比特币、以太币跌至6月以来最低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-356648a7a371",
+    "title": "英伟达CEO称人工智能行业不需要新法律 安全与速度可以兼得",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0b4d2302a192",
+    "title": "研究显示AI智能体在模拟实验中撒谎、偷窃 投票“杀死”同类",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-da56b754fd7c",
+    "title": "美国司法部长反对“起诉式监管”人工智能行业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-79f096177704",
+    "title": "美国国务院：国务卿卢比奥讨论了阿曼在推动地区局势降温方面的作用",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-612f1bdb362b",
+    "title": "美国国会预算办公室：伊朗战争头五个月给美国带来380亿美元直接成本",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2befa8cafb2b",
+    "title": "英伟达CEO黄仁勋：AI安全至关重要 但无需制定新法律",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b0b2178f8db4",
+    "title": "卡尼扩大投资税收优惠适用范围 力促投资加拿大",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fdc5a0a57fdd",
+    "title": "美联储不会逆市场定论而动 几十年无一例外",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-467238437815",
+    "title": "美国20年期国债中标收益率5.420% 创2020年恢复发行以来最高水平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d5da2884ccd8",
+    "title": "美国20年期国债中标收益率5.420% 创2020年恢复发行以来最高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8c978a52c8b8",
+    "title": "比特币大跌3%至76000美元，市场对《CLARITY 法案》今年获得通过的预期降温",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1ddf1aec287f",
+    "title": "科技巨头对于放缓AI发展的立场汇总",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-855a7129d255",
+    "title": "亿万投资人鲁宾斯坦：美国债务规模不断膨胀，犹如一颗定时炸弹",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8e7bbb01aea4",
+    "title": "“要么行动 要么闭嘴” DoubleLine称美联储需加息以稳定债市",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-b0926a2a2235",
     "title": "欧洲债市：德国国债下跌 英国30年期国债收益率逼近6%",
     "source": "新浪体育",
@@ -554,150 +698,6 @@
   {
     "id": "news-4dfb400d0a7a",
     "title": "DoorDash投资马克・洛尔旗下的Wonder",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8e454e597d0f",
-    "title": "美参议院加密市场结构法案关键投票前夕受阻 比特币价格跌破76000美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-af1b35ef2bad",
-    "title": "特朗普称最高法院邮寄选票裁决“对共和党是重大失利”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7c19b8c0889a",
-    "title": "AI真的会毁灭人类吗？技术缔造者们给出看法",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-541c35dc76f7",
-    "title": "富国银行：市场回调或将临近",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6aa2c8cbcabc",
-    "title": "美联储未来一年将至少加息两次",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-415ac8b30e94",
-    "title": "贝森特将10年期美债收益率上涨归咎于油价走高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-134f0954aa17",
-    "title": "AI真的会毁灭人类吗？行业先驱们发表看法",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ebd7fef1ab5d",
-    "title": "行云科技采购与授信额度双双增至200亿元，算力订单进入交付期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-01ed0e688a3c",
-    "title": "毕马威将在英国咨询业务裁员约200人 占比约4%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8b9b58bd1ccf",
-    "title": "白宫哈西特称：解决AI威胁，私营部门才是 “合适主体”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d3e815fe6258",
-    "title": "凯雷CEO料美联储不会开启新一轮激进加息周期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2c1ec1f48675",
-    "title": "开盘：三大股指齐跌，10年期美债收益率创19年新高，AI 芯片股反弹",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eb4b5bb4c83f",
-    "title": "奶茶公主“上位”，香飘飘能赶上现制茶饮的“晚集”吗？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2dca5edd1bb3",
-    "title": "身家五年缩水330亿，前福建首富拟一把套现2亿",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e6ff08ec17c3",
-    "title": "美官员：伊朗企图抢夺美军在霍尔木兹海峡巡逻的一艘海军无人机",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9aaf8102670e",
-    "title": "对话紫江企业副总经理兼董秘高军 当包装产业进入价值重估期 一家老牌制造企业如何平衡增长回报与长期主义",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b39f8f160e4e",
-    "title": "AI的青春时代已经落幕，这对投资者意味着什么",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-df080d2dfe0c",
-    "title": "数据中心地产商Digital Realty CEO：AI发展即便放缓，也绝非行业末日",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
