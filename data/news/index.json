@@ -464,6 +464,134 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-a963dec18cbd",
+    "title": "9月19日隔夜要闻：美股涨跌不一芯片股大涨 油价三连跌 金价续涨 特朗普签署针对俄罗斯和伊朗的制裁法案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-688aa6bb82a2",
+    "title": "报道：特朗普政府将于下周在联合国主办人工智能活动",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5ebe55c679e1",
+    "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e7a3ac1c7027",
+    "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1bd07a0721ff",
+    "title": "特朗普宣布格陵兰安全协议，称获得“永久控制权”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a6f4d4bc93a6",
+    "title": "美国股市：芯片股大涨提振科技板块 标普500指数小幅收高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0568144ab8ed",
+    "title": "特朗普签署对俄罗斯石油买家征收关税法案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6b128d03b4c8",
+    "title": "9月19日外盘头条：美墨贸易谈判取得阶段性进展 特朗普称正在与胡塞武装对话 大众汽车下调营业利润率预期",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c9e6f9953ec5",
+    "title": "对冲基金自2025年年中以来首次转为看涨日元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4976054b0225",
+    "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d627ed11dea8",
+    "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f3b138c13cc1",
+    "title": "穆迪将希腊信用评级展望调整为正面",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f9025ec469e7",
+    "title": "穆迪将波兰信用评级下调至A3 展望为稳定",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e2357edab0df",
+    "title": "大宗商品综述：油价三连跌 沙特出口前景喜忧参半 铜价升 金价续涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ee362eba4680",
+    "title": "原油：布伦特震荡下跌 沙特出口前景喜忧参半",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-437ca743bd1c",
+    "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-285fc3aca508",
     "title": "9月19日热门中概股多数上涨，阿里巴巴涨超4%，台积电涨超1%",
     "source": "新浪体育",
@@ -520,6 +648,14 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-6467f75d01a8",
+    "title": "特朗普再称对伊朗战争将很快结束",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-9dd4430f4b51",
     "title": "美国债市：美债追随欧洲债市下跌 收益率曲线走平",
     "source": "新浪体育",
@@ -560,144 +696,8 @@
     "is_chinese_related": false
   },
   {
-    "id": "news-cdeae11518f2",
-    "title": "Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6f133321eb93",
-    "title": "指剔除能源的通胀“也过热” 堪萨斯城联储行长支持加息",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c460dd686736",
-    "title": "伦敦海事保险市场扩大黑海高风险区域，船舶战争险面临重新定价",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-19eb2b0b34cf",
-    "title": "美联储外部审查重估硅谷银行倒闭：监管人员早已发现风险却迟迟未行动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2c6f2c94aa30",
-    "title": "美墨贸易谈判取得阶段性进展，辛鲍姆称已达成部分共识",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-271876963f40",
-    "title": "美联储拟完成大型银行压力测试改革，模型与计算公式将公开",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bd8b74cc7443",
-    "title": "全球跨境商业地产投资上半年增长56%，欧洲吸收逾半资金",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a8a1dd63c44d",
-    "title": "Anthropic设立实体生物实验室，推动Claude参与机器人实验",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-203dbd80d965",
-    "title": "美银预测美联储加息至5%以上 建议客户为2年期收益率上行布仓",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bec2e2c0114a",
-    "title": "丰田测算工厂自动化年投入或达1万亿日元，覆盖集团及主要供应商",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-30d5bcaefa35",
-    "title": "欧盟首个全规模二氧化碳封存项目投入运营，首期年处理能力40万吨",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b7afd0be7956",
-    "title": "通用汽车新一代皮卡押注柴油续航，单次加油可超900英里",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-939e0e361855",
-    "title": "特朗普表示：美国正在与胡塞武装对话",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5dff81fd5c4b",
-    "title": "欧洲债市：法国国债全线重挫 较德国国债利差扩大至105个基点",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c6b7cc290352",
-    "title": "欧洲股市扩大跌幅 大众汽车下调预期拖累汽车板块",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0f0ee7459208",
-    "title": "纽森发布行政令 推动加州建立AI“紧急关停”等安全措施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-af3974a60ee9",
-    "title": "迪士尼新设首席技术官岗位，加码科技战略布局",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-986ed2c21b1a",
-    "title": "汉堡连锁加盟商关闭60家门店，申请第十一章破产保护",
+    "id": "news-a7f54e48494f",
+    "title": "普京：“三位一体”核力量仍是俄罗斯国家主权的保障",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
