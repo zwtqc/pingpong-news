@@ -464,6 +464,38 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-3746ee8de139",
+    "title": "特朗普媒体禁令执行 CNN、MS NOW和Politico记者被拒进入白宫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-49d4228b9399",
+    "title": "特朗普称将组建“人工智能部队”并任命AI事务负责人",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-28dd4f0e2d16",
+    "title": "伊朗提出对美谈判三大前提，等待特朗普答复",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a461d12936ae",
+    "title": "阿那亚突发大停电，官方回应：园区外线路故障所致，正抓紧抢修",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-648997e73b48",
     "title": "美军指挥官：霍尔木兹海峡石油运量创六个月新高",
     "source": "新浪体育",
@@ -498,6 +530,14 @@
   {
     "id": "news-ef0ba131c4cb",
     "title": "巴菲特推进计划下一步，确保伯克希尔在他身后不走样",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-74c4774468ed",
+    "title": "英伟达5名高管披露持股变动：黄仁勋4.57万股用于缴税，CFO套现765万美元",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -658,46 +698,6 @@
   {
     "id": "news-688aa6bb82a2",
     "title": "报道：特朗普政府将于下周在联合国主办人工智能活动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5ebe55c679e1",
-    "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e7a3ac1c7027",
-    "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1bd07a0721ff",
-    "title": "特朗普宣布格陵兰安全协议，称获得“永久控制权”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a6f4d4bc93a6",
-    "title": "美国股市：芯片股大涨提振科技板块 标普500指数小幅收高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0568144ab8ed",
-    "title": "特朗普签署对俄罗斯石油买家征收关税法案",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
