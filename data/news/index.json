@@ -464,8 +464,64 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-648997e73b48",
+    "title": "美军指挥官：霍尔木兹海峡石油运量创六个月新高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d278eaaa13f9",
+    "title": "纳斯达克100指数季度再平衡落定 SpaceX权重将升至2.82%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-008a0868f2c5",
+    "title": "全球超级油轮短缺推高运费 长途原油贸易面临冲击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e2b8ec3499e6",
+    "title": "SpaceX在纳斯达克100指数中的权重将达到2.82%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ef0ba131c4cb",
+    "title": "巴菲特推进计划下一步，确保伯克希尔在他身后不走样",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ae3d114fe464",
+    "title": "欧洲央行管委：若通胀飙升不排除10月加息可能性，但不应仓促行事",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-769e759942d4",
     "title": "大众据悉拟在保时捷品牌进一步裁员约4100人",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-774a0fdad8be",
+    "title": "《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -642,62 +698,6 @@
   {
     "id": "news-0568144ab8ed",
     "title": "特朗普签署对俄罗斯石油买家征收关税法案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6b128d03b4c8",
-    "title": "9月19日外盘头条：美墨贸易谈判取得阶段性进展 特朗普称正在与胡塞武装对话 大众汽车下调营业利润率预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c9e6f9953ec5",
-    "title": "对冲基金自2025年年中以来首次转为看涨日元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4976054b0225",
-    "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d627ed11dea8",
-    "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f3b138c13cc1",
-    "title": "穆迪将希腊信用评级展望调整为正面",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f9025ec469e7",
-    "title": "穆迪将波兰信用评级下调至A3 展望为稳定",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e2357edab0df",
-    "title": "大宗商品综述：油价三连跌 沙特出口前景喜忧参半 铜价升 金价续涨",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
