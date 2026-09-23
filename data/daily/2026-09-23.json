@@ -21,7 +21,13 @@
       "tournament_id": "wtt-grand-smash-2026-02"
     }
   ],
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "大兴企业乒乓球邀请赛黄村站 百余名选手同台竞技",
+      "source": "新浪体育",
+      "url": null
+    }
+  ],
   "chinese_players": {
     "active_count": 4,
     "names": [
@@ -64,5 +70,5 @@
     }
   ],
   "share_url": "https://zwtqc.github.io/pingpong-news/",
-  "generated_at": "2026-09-23T12:54:34.384322"
+  "generated_at": "2026-09-23T17:43:04.562226"
 }

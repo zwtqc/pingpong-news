@@ -112,6 +112,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-08297e9ae034",
+    "title": "大兴企业乒乓球邀请赛黄村站 百余名选手同台竞技",
+    "source": "新浪体育",
+    "published_at": "2026-09-23",
+    "category": "media",
+    "is_chinese_related": true
+  },
+  {
     "id": "news-ef05dee0d44c",
     "title": "大兴区企业乒乓球邀请赛开赛 百余名职工齐聚赛场",
     "source": "新浪体育",
@@ -456,248 +464,240 @@
     "is_chinese_related": true
   },
   {
-    "id": "news-33fc3da06743",
-    "title": "WTT总决赛王楚钦4-0张本夺3连冠 王曼昱逆转登顶",
-    "source": "新浪体育",
-    "published_at": "2024-11-24",
-    "category": "media",
-    "is_chinese_related": true
-  },
-  {
-    "id": "news-10bd074a76ed",
-    "title": "华尔街大行Stifel看中的8只能源美股",
+    "id": "news-432024a82aeb",
+    "title": "伊朗高级官员：“新”外交不会回到过去",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-e0061254b2f9",
-    "title": "汇丰上调欧洲斯托克600指数目标，预计2027年底仍有约20%上涨空间",
+    "id": "news-8c49210186d7",
+    "title": "麦当劳承诺向加盟商投入85亿美元提供支持",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-960cc47ba751",
-    "title": "瑞银称瑞士议会资本方案并非妥协 誓言继续抗争",
+    "id": "news-64da29935462",
+    "title": "YouTube与网飞争夺头部创作人才",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-bd2c1ca65b7a",
-    "title": "贝莱德：AI智能体重塑数字资产生态 算力经济开启链上应用新空间",
+    "id": "news-e4184edc4afd",
+    "title": "市场计入美联储再度加息预期，10年期美债收益率创2007年以来新高",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-e7a528ee06f4",
-    "title": "盘前：纳指期货跌0.24% 油价连跌5天",
+    "id": "news-f3cf4425a041",
+    "title": "加里・科恩谈及Meta的Muse：“我不愿交出我的个人数据”",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-8974b99a8337",
-    "title": "瑞安航空称不会加收燃油附加费，高油价或加速欧洲航空业整合",
+    "id": "news-93702facdbfd",
+    "title": "纳斯达克持续上涨，但部分科技股已亮起警示信号",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-9c1c6891b8c9",
-    "title": "抵押贷款利率飙升突破7%，上周近10%借款人选择风险更高的浮动利率房贷",
+    "id": "news-614e38a7f15b",
+    "title": "美联储巴尔表示，需要进一步加息以压低通胀",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-2bc17237acd6",
-    "title": "德州或将转向蓝营，关键看民主党能否借力民众对数据中心的反对浪潮",
+    "id": "news-4b0f60386467",
+    "title": "伊朗向美国提出重启谈判条件 包括接受霍尔木兹海峡方案",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-d7b2bec3441b",
-    "title": "欧元跌至近两个月低点 期权交易员加大看空押注",
+    "id": "news-b7c99ec2ea41",
+    "title": "美国财政部称周四将回购至多60亿美元较长期美债",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-e97abf16cf9b",
-    "title": "分析师对美国企业盈利预期上调势头终结 通胀与高利率引发担忧",
+    "id": "news-8612a77dfeda",
+    "title": "高盛利率预测高度取决于油价走势",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-1437fd1f328e",
-    "title": "韩国力促特朗普同朝鲜举行峰会，谋求和平机遇",
+    "id": "news-c38775baf6eb",
+    "title": "纳瓦罗：白宫官员不应上福克斯新闻和福克斯商业频道的节目",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-7e41b7fecc0c",
-    "title": "德国敦促美国允许在欧洲生产“爱国者”导弹",
+    "id": "news-befacff01ea8",
+    "title": "研究发现：顶尖AI人才数量中国已超越美国",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-7c441a5fd1b3",
-    "title": "英国能源大臣承认英国恐无法完成气候目标",
+    "id": "news-55c28b3edfb8",
+    "title": "伊朗总统：无意发展核武器 但不会放弃发展核技术的权利",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-dd52e174dd98",
-    "title": "外交部：日本现政权已成为威胁地区和平稳定突出因素",
+    "id": "news-331d41405135",
+    "title": "中国国际商会组织企业代表团参与第七届中俄中小企业实业论坛",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-403e4f9caaa2",
-    "title": "受俄乌战争带动国防科技热潮，AI无人机企业估值达到64亿美元",
+    "id": "news-6f72e743e5f1",
+    "title": "经济数据火热，10年期美债收益率飙升创19年新高",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-f2058e96e4be",
-    "title": "OpenAI CEO将出席安理会会议 以“务实中间派”立场推动建立AI安全标准",
+    "id": "news-635411553b80",
+    "title": "美国商品期货交易委员会主席：“事件提及合约” 的交易活动令人担忧",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-fdfb78f5c544",
-    "title": "突发！002840，副总经理朱文文被公安局采取强制措施",
+    "id": "news-1227d4b610ea",
+    "title": "调查发现：中期选举临近，理财顾问客户的生活负担担忧愈发凸显",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-b8202aa4ede3",
-    "title": "美国石油公司高管游说反对特朗普柴油出口禁令",
+    "id": "news-34b17a3e2639",
+    "title": "EIA：美国原油库存上周增加296.9万桶 预估中值为减少69万桶",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-97aa9c94e8ba",
-    "title": "5亿“抄底”西安旅游，陕西首富严建亚家族再扩资本版图",
+    "id": "news-8d8bbe0402b5",
+    "title": "英国首相伯纳姆重申不应“受制于”债市 称对全球债市暴露过度",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-7b5db4099c3d",
-    "title": "王东伟任安徽省代省长",
+    "id": "news-45f52ff2c9a7",
+    "title": "美国抵押贷款利率突破7%关口 升至逾两年高点",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-d67d9bd06680",
-    "title": "Airtel Money计划赴伦敦上市",
+    "id": "news-6dc2fb642b60",
+    "title": "伊朗总统在联合国强硬演讲，指责美国、以色列造成全球动荡",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-c8000e5a73eb",
-    "title": "中天期货:橡胶大阳上涨 焦煤弱势回调",
+    "id": "news-0c8da0f33752",
+    "title": "麦当劳CEO 表示，高通胀、客流低迷或将长期困扰餐饮行业",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-8fe437ed3c86",
-    "title": "贵阳银行赢了官司，却追不回“世界铜王”的15.84亿！",
+    "id": "news-f5d6e7a44e58",
+    "title": "花旗上调美光目标价，预计存储供需紧张将推动股价在SEMICON West前走强",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-4fb5c05806d8",
-    "title": "四方精创港股IPO中止：招股价上限折扣仅四成 保荐团队缺乏A+H经验 公司能否接受降价再启动？",
+    "id": "news-248566ede4f5",
+    "title": "伊朗总统联大发表强硬演说：和平不会诞生于战场之上",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-486309de87a0",
-    "title": "华尔街GPU算力期货推进受阻，美国商品期货交易委员会延长审核",
+    "id": "news-1bd593b0da08",
+    "title": "佳禾智能拟溢价接手与上家没谈拢的标的，看中了什么？",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-a8657f860767",
-    "title": "巴里克黄金IPO前夕签署一份五年期AI合作协议",
+    "id": "news-a16715ea0f86",
+    "title": "当前债券市场浮亏，投资者或迎来可观的节税机会",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-85fe3c82c6eb",
-    "title": "OpenAI与东南亚Grab合作推出人工智能技能培训项目",
+    "id": "news-b800373592d4",
+    "title": "伊朗总统佩泽希齐扬在联合国大会讲话要点一览",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-350ae3c9382a",
-    "title": "前期项目尚未量产，佰维存储再砸45亿扩产！加码先进封测，战略意图和风险都有哪些？",
+    "id": "news-4e935cbefc0c",
+    "title": "富豪豪掷数十亿美元布局长寿产业，力求延长自身“健康寿命”",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-414b22418053",
-    "title": "特朗普曾贬低曼彻斯特 伯纳姆一句玩笑轻松化解",
+    "id": "news-e84ec17aeba2",
+    "title": "激进投资者Toms Capital致信德文能源，敦促其评估包括整体出售在内的战略选项",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
     "is_chinese_related": false
   },
   {
-    "id": "news-8fbcb90265b7",
-    "title": "【调研报告】黑龙江东部玉米大豆调研报告",
+    "id": "news-4f00905f40c1",
+    "title": "伊朗总统在联合国发表强硬讲话，将全球不稳定归咎于美国和以色列",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
