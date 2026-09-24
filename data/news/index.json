@@ -464,6 +464,142 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-a566417f9239",
+    "title": "9月25日外盘头条：美伊据悉讨论分阶段协议 30年期美债收益率升至2004年来最高 百事可乐将涨价",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0afa8ae65987",
+    "title": "马斯克：若保持强劲加速度 SpaceXAI约6个月后就能领跑",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6a829ee6bda8",
+    "title": "对冲基金Situational Awareness今年成为高盛最大客户",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3901476f90eb",
+    "title": "百事可乐将再次涨价 预计将于年底或2027年初生效",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-808b442f3185",
+    "title": "花旗：日元兑美元跌破159将增加日本当局采取行动的风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ff95f55fbd8c",
+    "title": "阿波罗将软银净资产贷款增至92亿美元 支持其人工智能投资",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cc188106d3d9",
+    "title": "美债攀升 全球债券平均收益率为2007年以来的最高水平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-52de06d0a1cd",
+    "title": "原油：布伦特上涨 供应紧张削弱对霍尔木兹海峡协议的乐观情绪",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f9aca8d200c9",
+    "title": "纽约汇市：美元五连涨 美国长期国债收益率升至数十年高点",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c0fc6911f89f",
+    "title": "9月25日收盘：道指连续三日收跌 油价、美债收益率维持高位",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8032b2194d27",
+    "title": "美国债市：长期国债延续抛售势头 收益率曲线大幅陡化",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f7f7e06a23d8",
+    "title": "OpenAI、Anthropic被要求在完成白宫测试前不能向英国分享新模型",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-136e8491fb69",
+    "title": "以色列官员：恢复对伊朗的打击只是时间问题",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-121783463d4e",
+    "title": "微软CEO安排Brad Smith负责通讯部门",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2437a808d34d",
+    "title": "美伊据悉讨论分阶段协议 涉及开放霍尔木兹海峡和解除对伊封锁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a7aeee9e4a21",
+    "title": "美国财政部长债回购再次未达上限 总计购入40.8亿美元国债",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8793e16d64e6",
+    "title": "特朗普政府称被禁媒体获准重返白宫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-14010e2d8292",
     "title": "美国7年期国债中标收益率创2009年以来最高",
     "source": "新浪体育",
@@ -562,142 +698,6 @@
   {
     "id": "news-3e87212bf904",
     "title": "报道：谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-469f22be6aaa",
-    "title": "沙特一度警告麦加、延布和吉达等地面临潜在危险",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1ed7bd0560cd",
-    "title": "前任CEO查佩克仍对被迪士尼解雇一事耿耿于怀",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8d6afc0a4c5c",
-    "title": "甲骨文就数据中心项目发出“不可抗力”通知，股价大跌5%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4ea82d734f80",
-    "title": "费城联储行长保尔森称或需进一步小幅加息",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c2c311e1a1eb",
-    "title": "全球债券抛售潮加剧，推高世界各地借贷成本",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8a81a619f9ab",
-    "title": "诺顿杀毒软件母公司向GoDaddy发出收购要约",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-30eca08dff86",
-    "title": "欧洲央行管委Radev：必须给之前的加息行动足够的时间发挥作用",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a32953651e07",
-    "title": "Meta押注Muse智能AI助手，密集推出多款全新硬件产品",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3bcd22c6d3a8",
-    "title": "科技巨头，引爆“大雷”！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-651da5a472b9",
-    "title": "甲骨文股价下跌6.1%，公司采取行动规避争议数据中心项目带来的成本风险",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a3d7907a70f4",
-    "title": "视频 | 拾光纪·欢迎仪式现场，特朗普夫妇热情迎接习近平主席",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ffd9c76f5284",
-    "title": "满足全球生物燃料需求，或将需要相当于美国蒙大拿州大小的土地",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1b716d6e4869",
-    "title": "亚马逊斥资1亿美元新建印第安纳州基地，扩大机器人产能",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e8f09c5c4801",
-    "title": "面板厂商10月产能利用率将降至80%，四季度欲遏制跌价、甚至涨价",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1c3ff825f9f6",
-    "title": "标普500指数两大成分股权重集中度创下历史新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-47c47012ff9b",
-    "title": "美国8月份新建住宅折合年率销量上升6.4%至68.4万套",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a8215bcdeae3",
-    "title": "一周连发十多篇“小作文”，粉笔超格“公考大战”还没完？",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
