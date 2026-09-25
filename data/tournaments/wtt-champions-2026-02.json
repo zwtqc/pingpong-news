@@ -4,8 +4,8 @@
   "name_zh": "WTT 冠军赛",
   "level": "champions",
   "category": "international",
-  "start_date": "2026-09-14",
-  "end_date": "2026-09-26",
+  "start_date": "2026-09-15",
+  "end_date": "2026-09-27",
   "location": {
     "city": "杭州",
     "country": "CHN",
@@ -23,5 +23,5 @@
     }
   ],
   "status": "ongoing",
-  "updated_at": "2026-09-24T21:59:13.945321"
+  "updated_at": "2026-09-25T00:26:16.226588"
 }
