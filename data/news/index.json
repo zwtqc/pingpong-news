@@ -464,6 +464,46 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-72516c793efe",
+    "title": "AI模型使用超现实方言对话 混合诗意文字与科技圈黑话",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-063563cae569",
+    "title": "特朗普第一时间发帖总结会晤",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-38fef27542e5",
+    "title": "美参议员：白宫释放信号 不会禁止柴油出口",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-dd479783c57e",
+    "title": "白宫未推进小肯尼迪要求提供超加工食品安全性证明的提议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d07081bcd506",
+    "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-ca116fa9708d",
     "title": "玻利维亚取消银行美元卖出汇率限制",
     "source": "新浪体育",
@@ -658,46 +698,6 @@
   {
     "id": "news-378ff31d5411",
     "title": "纽约汇市：美元指数回落 日元势创近三周最佳表现",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0cd41c19f0dd",
-    "title": "美国债市：短端获油价下跌支撑 收益率曲线陡化延续",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ad5cbf8d194f",
-    "title": "9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d7918649165d",
-    "title": "Anthropic正谈判租赁最高1吉瓦算力 投入至少400亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4976df86b9e6",
-    "title": "摩根士丹利：甲骨文数据中心事件引发合同风险担",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b0e45a7be534",
-    "title": "纽约联储博客：美联储采用“证券主导型”准备金管理方式",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
