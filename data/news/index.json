@@ -464,6 +464,46 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-d20cc934bdbb",
+    "title": "巴西政府在选举前延长燃油价格补贴措施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5097932eb44a",
+    "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0b741a7c029b",
+    "title": "伯克希尔披露对股价下跌的房屋建筑商Lennar持股接近翻倍",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-13c940827a1d",
+    "title": "10年期美国国债收益率处于近二十年来的最高水平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ef34cee83fdc",
+    "title": "欧盟拟大力增加卫星发射 寻求开辟域外发射场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-e14fd4adb034",
     "title": "美债收益率重返5%！美股走弱，金价跌破4300美元",
     "source": "新浪体育",
@@ -658,46 +698,6 @@
   {
     "id": "news-fe8343be9834",
     "title": "白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d1ebd849b413",
-    "title": "美国股市：主要股指普涨 霍尔木兹海峡重开希望推动油价回落",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-08b3dc6603ec",
-    "title": "美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-78c934733c94",
-    "title": "沙特原油出口创伊朗战争以来新高，管道停运难阻出口激增",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-52647b20d295",
-    "title": "OpenAI通知包括政府部门在内的数十家机构 称其网站或遭AI干扰",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4d1fb8476abe",
-    "title": "原油：WTI下跌 交易员权衡美伊霍尔木兹海峡谈判进展",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
