@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-bd7bfc720aa1",
+    "title": "特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-d20cc934bdbb",
     "title": "巴西政府在选举前延长燃油价格补贴措施",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-6389a499d56a",
     "title": "9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fe8343be9834",
-    "title": "白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
