@@ -464,8 +464,56 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-fde05b94b7e3",
+    "title": "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b5b749baf5a0",
+    "title": "特朗普拟废除拜登时代的汽车燃油经济性标准",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-54701d4253bf",
+    "title": "伊朗外长: 霍尔木兹海峡开放取决于伊方条件是否满足",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7d3e663c7b12",
+    "title": "特朗普发帖：美国汽车工人和购车者的大日子",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c99dcf105536",
+    "title": "特朗普：已批准旨在终结电动车强制令的新燃油经济性标准",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-bd7bfc720aa1",
     "title": "特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8152ce161c0c",
+    "title": "心碎刘欢",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -650,54 +698,6 @@
   {
     "id": "news-2748f4d68069",
     "title": "克利夫兰联储行长称增长前景和债务担忧等推高长期美债收益率",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fc105591a249",
-    "title": "9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-26e19a5bd9ea",
-    "title": "大宗商品综述：原油下跌 伦铜基本持平 金价微升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fc1ebeb12a6e",
-    "title": "9月26日热门中概股多数下跌，阿里巴巴跌0.8%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fa83fb25e297",
-    "title": "国际新闻早知道丨伊朗向美国递交新的谈判草案 俄美乌三方会晤或近期举行",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fc48b789b017",
-    "title": "欧洲央行副行长Vujcic：能源价格将长期维持高位",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6389a499d56a",
-    "title": "9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
