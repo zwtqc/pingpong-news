@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-fe889f50325b",
+    "title": "Anthropic首席执行官将与特朗普共进晚餐",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-08fdcf0f9ab2",
     "title": "贝森特敦促美联储对美国通胀前景保持“开放心态”",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-18917a3fba95",
     "title": "Kraken母公司Payward斥资数十亿美元打造金融基础设施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3b3a75a6be22",
-    "title": "黑客已经转移8300万美元被盗Bitget交易所虚拟货币",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
