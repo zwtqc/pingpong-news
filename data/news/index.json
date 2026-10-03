@@ -464,6 +464,46 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-c34244409129",
+    "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-50db0875b739",
+    "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8ec20aaed9da",
+    "title": "台积电探讨与马斯克 Terafab 项目开展合作",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8b440d00d1da",
+    "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6ed35b3404c2",
+    "title": "贝森特称国债收益率上升符合全球趋势 不必感到惊恐",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-4c8ec38ff5a3",
     "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
     "source": "新浪体育",
@@ -560,6 +600,14 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-cd71f3351c4f",
+    "title": "美股要“通宵”了！12月起迈入23小时交易时代",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-329cb3328ed5",
     "title": "G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀",
     "source": "新浪体育",
@@ -650,54 +698,6 @@
   {
     "id": "news-c6db77e0aeec",
     "title": "巴西大选在即 美国和澳大利亚突然以安全关切为由暂停当地领事服务",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1bf84531b6d1",
-    "title": "大宗商品综述：燃料价格大跌 铜价微升 金价走低",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8e0c6c894235",
-    "title": "纽约汇市：美元创一个月最大跌幅 就业数据疲软扰乱了利率预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-246ea166ba95",
-    "title": "美国股市：主要股指普涨 就业数据弱于预期缓解加息担忧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-04d60adb871a",
-    "title": "10月3日外盘头条：沙特计划对胡塞武装发动攻势 科技公司推出萌系吉祥物 道明证券推迟美联储加息时点预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b6ee162b8ebb",
-    "title": "原油：燃料价格大跌 七国集团计划释放战略储备",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-af9f3dea3fd6",
-    "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
