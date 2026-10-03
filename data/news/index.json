@@ -464,6 +464,46 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-4c8ec38ff5a3",
+    "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-999bb12c9d16",
+    "title": "韩国一储蓄银行遭黑客攻击，约4万客户数据泄露",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-36712ece0e05",
+    "title": "美国据悉将向维斯特拉公司提供42亿美元贷款，以提升核电产能",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1452115ef90e",
+    "title": "贝森特自称是马斯克的超级粉丝",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a213aaabe134",
+    "title": "贝森特称本周伊朗不会有石油在海上运输",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-853c8ad8a7bb",
     "title": "意大利和希腊寻求欧盟财政规则灵活性",
     "source": "新浪体育",
@@ -658,46 +698,6 @@
   {
     "id": "news-af9f3dea3fd6",
     "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7f766c97ad0e",
-    "title": "10月3日热门中概股多数下跌，网易跌2.82%，京东跌2.24%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f46f70c30cff",
-    "title": "10月3日收盘：美股周五收涨 就业数据走弱提振市场",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f28e9cad1533",
-    "title": "特朗普称美国不会实施柴油出口禁令",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7e09c118519b",
-    "title": "美国债市：美债回吐非农数据后涨幅 曲线中段领跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6d0e17d43c51",
-    "title": "重燃对AI云业务信心 野村上调阿里巴巴净利预估",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
