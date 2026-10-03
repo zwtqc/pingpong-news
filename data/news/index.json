@@ -464,6 +464,22 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-3cd757009583",
+    "title": "贝森特批评AI风险警告是危言耸听",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b9211a4218a1",
+    "title": "工资涨不过物价 美国人想尽各种办法维持消费",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-c34244409129",
     "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
     "source": "新浪体育",
@@ -682,22 +698,6 @@
   {
     "id": "news-c37ef31b78d4",
     "title": "10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-38825a367cb9",
-    "title": "七国集团同意释放紧急储备后 特朗普称美国不会禁止柴油出口",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c6db77e0aeec",
-    "title": "巴西大选在即 美国和澳大利亚突然以安全关切为由暂停当地领事服务",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
