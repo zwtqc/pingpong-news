@@ -464,6 +464,110 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-de8448520aa8",
+    "title": "施耐德电气接近以200亿美元收购工业软件集团PTC",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b04d6d8a27d6",
+    "title": "报道：美国从英国空军基地撤回所有B-1轰炸机",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5d47335f4806",
+    "title": "周末要闻：非农数据爆冷 G7联手降油价 特朗普宣布成立超级智能工作组",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ca0047e6b8eb",
+    "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d62a09a94c4f",
+    "title": "特朗普任命Clayton领导人工智能工作组 以应对安全担忧",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c2f920def61a",
+    "title": "法国债市动荡勾起危机记忆 交易员高度警惕风险蔓延迹象",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-920835703744",
+    "title": "美国撤回部署在英国的B-1轰炸机",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e198932505cb",
+    "title": "巴西投票站关闭 计票工作即将开始",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-eeb729b10e85",
+    "title": "UKMTO称也门Al Mukha附近的油轮报告目击爆炸",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d8a593cac8c7",
+    "title": "也门政府宣布启动行动以收复胡塞武装近期控制地区",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-df2f9bcdffdc",
+    "title": "俄乌相互升级威胁 俄警告驻基辅外交人员面临致命风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e998242a7972",
+    "title": "消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cc49e8cbe50c",
+    "title": "伊朗石油部长辞职 伊朗国家石油公司CEO任代理部长",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-3847fff8c804",
     "title": "报道：沙特阿拉伯与阿联酋将协助扩充亚洲石油储备",
     "source": "新浪体育",
@@ -474,6 +578,14 @@
   {
     "id": "news-5a6849dc323c",
     "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-00f4220e3d6a",
+    "title": "以总理下令对外国民航客机赴以安保工作进行彻底审查",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -498,6 +610,14 @@
   {
     "id": "news-e0e86a3152c8",
     "title": "沙特支持的也门部队发动全面攻势 试图夺回胡塞武装控制区",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-16a1f27dc3f2",
+    "title": "日本将召集第222届临时国会",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -578,126 +698,6 @@
   {
     "id": "news-a355e3ba918a",
     "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f1fae01535e7",
-    "title": "美国加密货币行业9月招聘职位激增 申请量反而下降",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4a7e24d3e349",
-    "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2602b1094ea8",
-    "title": "小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-779698871991",
-    "title": "SEC放行首批3倍杠杆加密ETP，比特币维持在8.5万美元附近",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-58e7a7d9dba2",
-    "title": "雷诺未来五年将在法国再投超100亿欧元，加码电动车和更低价车型",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-92590545d68b",
-    "title": "美国人工智能“沙皇”组建“超级智能”特别工作组：120天评估AI风险与政府监管边界",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-91f5156bb192",
-    "title": "约满，限流！全国多处景区发布公告",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-64145a1c08cf",
-    "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d53c2acb4544",
-    "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2a3f56fdd7f2",
-    "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-69479daeab28",
-    "title": "花旗解释家装股为何跑输：高利率压住需求，但长期维修逻辑仍在",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-65a95587e7a5",
-    "title": "伊朗表示已准备好“既打又谈”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c4025dc329bf",
-    "title": "胡塞武装称袭击利雅得附近沙特阿美设施，也门战事同步升级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-beaab34d1e4d",
-    "title": "默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c4f7a88cc53d",
-    "title": "BMO上调埃森哲目标价至235美元：AI订单在扩张，但长期是否利好IT服务仍存疑",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
