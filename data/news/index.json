@@ -464,6 +464,70 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-3847fff8c804",
+    "title": "报道：沙特阿拉伯与阿联酋将协助扩充亚洲石油储备",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5a6849dc323c",
+    "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7b4928f9ccae",
+    "title": "环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9bb14f717ccf",
+    "title": "软银集团孙正义罕见地就AI安全风险表达担忧 呼吁各国携手应对威胁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e0e86a3152c8",
+    "title": "沙特支持的也门部队发动全面攻势 试图夺回胡塞武装控制区",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c7d4978d1781",
+    "title": "苹果新任CEO特努斯上任即亲掌设计，10月密集推新品对冲服务业务放缓",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-eedd795fa4d6",
+    "title": "OPEC+主要成员国同意11月维持产量目标不变",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f3e009dc96f1",
+    "title": "余承东回应误发“余总转发文案”：没想到工作备注比正文还抢镜",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-0d3d07456e5f",
     "title": "“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”",
     "source": "新浪体育",
@@ -634,70 +698,6 @@
   {
     "id": "news-c4f7a88cc53d",
     "title": "BMO上调埃森哲目标价至235美元：AI订单在扩张，但长期是否利好IT服务仍存疑",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-12f105d9d8b0",
-    "title": "William Blair维持特斯拉“与大盘一致”：交付超预期，但高估值限制上行空间",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ce34ca8718e9",
-    "title": "特斯拉三季度交付超预期，但Oppenheimer仍维持“与大盘一致”评级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1cd169eeaf66",
-    "title": "超强厄尔尼诺刺激 这品种价格创9年新高！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8a510ee8d778",
-    "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3cd757009583",
-    "title": "贝森特批评AI风险警告是危言耸听",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b9211a4218a1",
-    "title": "工资涨不过物价 美国人想尽各种办法维持消费",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c34244409129",
-    "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-50db0875b739",
-    "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
