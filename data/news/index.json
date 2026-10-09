@@ -464,6 +464,222 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-999cf9c9e153",
+    "title": "原油：布伦特小涨 市场权衡油轮遇袭风险与俄罗斯柴油供应前景",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cbdee51ee8dc",
+    "title": "10月10日美股成交额前20：微软涨2.38% 推出面向快速决策的Microsoft-Decision-1模型",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b835cac37768",
+    "title": "特朗普任命Katie Zacharia为新任白宫新闻秘书",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e1469994c520",
+    "title": "美光科技12月将股票回购计划规模扩大至350亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-53c350003003",
+    "title": "美国债市：国债短端领跌 收益率曲线继续趋平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a0bffbe90294",
+    "title": "10月10日热门中概股多数上涨 阿里巴巴涨5.36% 台积电跌1.03%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-348ec1df3c24",
+    "title": "10月10日美股收盘：道指涨423点 三大股指本周均录得涨幅 科技股普涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-47a2bca4c1ab",
+    "title": "巴拿马运河管理局称地震后运河运行正常",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-449937802d30",
+    "title": "巴拿马发生70多年来最强地震 拉美部分地区或面临海啸",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1e9d37645cde",
+    "title": "特朗普称普京同意向全球投放柴油 首批供应量超过30万吨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a6c8c0c2c033",
+    "title": "德意志银行：债市悲观情绪已过头 AI生态风险或令资金重返债市",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7e3fc74814ca",
+    "title": "美国财政部将立即发放许可 允许俄罗斯柴油进入全球市场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d9a5df373550",
+    "title": "Katie Zacharia据称将接替莱维特担任白宫新闻秘书",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-706552cdb4a0",
+    "title": "美银调查：投资者大幅削减欧元外汇敞口 幅度创纪录",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c62c95119b1f",
+    "title": "欧洲股市录得小幅周上涨 债市波动减弱以及美国财报前景提振人气",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-34ac6e205d99",
+    "title": "巴拿马发生7.7级地震",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4de199f1c227",
+    "title": "特斯拉在欧洲弃用“Full Self-Driving”品牌名 改为辅助驾驶",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a089e3fe9319",
+    "title": "受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-44718b367d2c",
+    "title": "SpaceX重磅出手挑战手机通信行业，美国电话电报、T‑Mobile、威瑞森股价遭遇重挫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-af51da374f59",
+    "title": "知名经济学家克鲁格曼警告法国或引发欧洲债务危机",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-560a7fc76baa",
+    "title": "AI引发的“SaaS末日” 本应重创软件股，现实却截然相反",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b538dccca39e",
+    "title": "欧洲债市：德国国债缩窄涨幅 受到油价上涨拖累",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ae14f0da50e7",
+    "title": "陷入困境的人造肉类先驱，能否真正实现 “超越”？",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2cc447d9b09d",
+    "title": "大众汽车因业绩预告披露问题遭德国金融监管机构罚款130万美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c0f91ee95e11",
+    "title": "受伊赛亚斯飓风影响，英国石油关停墨西哥湾两座平台的生产作业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-766244d04ffd",
+    "title": "法国债券的风险高过意大利 收益率差达到欧元创立以来新高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3e02f4d52209",
+    "title": "一场全新的移动通信大战或将拉开帷幕",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-e9aae28b85b0",
     "title": "摩根士丹利上调芝加哥期权交易所全球市场（Cboe）评级",
     "source": "新浪体育",
@@ -482,222 +698,6 @@
   {
     "id": "news-1116a52cce2a",
     "title": "白宫成立委员会调查美联储理事库克 要求其11月5日出席白宫听证",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e99dbbf8fb81",
-    "title": "特朗普组建委员会，调查美联储理事丽莎・库克的相关陈述",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7ef4b20681e8",
-    "title": "美国人债务问题亮起警示红灯，大衰退以来未见的风险信号出现",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7d2a80d33ce2",
-    "title": "华尔街大力推数据中心作为房地产重仓标的，但风险正在不断累积",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-da60fed5aeb5",
-    "title": "NBA总裁：联盟希望获取预测市场数据以检测操纵行为",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f1a44331c3e0",
-    "title": "特朗普任命委员会调查美联储丽莎·库克的陈述",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-97909a930eb9",
-    "title": "科技股韧性令投资者费解，期权市场或许暗藏线索",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c0e09f5270f0",
-    "title": "Blockchain.com寻求美国监管批准，拟开展预测市场与加密衍生品交易业务",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9fba8b36052c",
-    "title": "法拉利董事长看好AI，但对企业如何变现尚存疑虑",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f55b8bcae05b",
-    "title": "预测市场：2027年前，规划中或已投运的数据中心数量大概率将超过5100座",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c0edea4fadd7",
-    "title": "美财长贝森特聘请前美联储理事人选朱迪·谢尔顿担任顾问",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-abdfa13da8e2",
-    "title": "美国10月消费者信心指数跌至五个月低点 通胀预期略有上升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-71803a60cb54",
-    "title": "诺奖得主克鲁格曼：法国大到无力救助",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-123622f9d53c",
-    "title": "达美航空CEO：沙特航线是否开通，“将由安全状况来决定”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8f92e474440b",
-    "title": "受燃油价格飙升影响，达美航空下调2026年业绩预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4e731f92a1a0",
-    "title": "美国股市早盘小幅上涨 AI泡沫忧虑略有缓和",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f8e7cd77615b",
-    "title": "NBA总裁：希望获取预测市场数据 以识别市场操纵行为",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7bdd74511b71",
-    "title": "人民币汇率被低估了吗？央行最新政策立场给出答案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f00f9a43d7ce",
-    "title": "前三季度净利预降约6成，飞龙股份液冷订单“兑现”仍需时间",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a94d48cb0f21",
-    "title": "豪掷百亿“骑”彪马，安踏又双叒叕施展“钞能力”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3b13564d09d2",
-    "title": "定增赚了数百亿的大佬，又把钱拍到了桌上",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bb21d22117d4",
-    "title": "白宫宣布成立委员会 调查美联储官员库克涉嫌发表虚假陈述的指控",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a2a3bc118192",
-    "title": "商务部：中方反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-af41ddf91afe",
-    "title": "伊赛亚斯飓风扰乱墨西哥湾美国原油生产，对炼油厂构成威胁",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-40883a7b8b38",
-    "title": "印度称万斯针对移民的言论“极具冒犯性”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a5dfed96b0ff",
-    "title": "开盘：三大股指齐涨 科技股在抛售过后迎来反弹",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e9467ae34459",
-    "title": "五连板牛股，提示风险！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eac2dc2dd1e1",
-    "title": "证监会出手！俞发祥遭立案，涉两家A股公司！",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
