@@ -464,6 +464,214 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-63c168d01f9e",
+    "title": "10月14日外盘头条：英伟达对欧追加20亿美元投资 美光海力士股价大跌 美银涉嫌洗钱违规被罚12亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4195c12dc181",
+    "title": "办公室被植入“精密录音设备” 沙特籍OpenAI员工被捕",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1734336967cf",
+    "title": "原油：期货涨势暂歇 交易员获利了结 中东和俄罗斯供应风险仍存",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b14ca92ab684",
+    "title": "美国银行涉嫌洗钱违规 被罚款12亿美元 盘后跌超2%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3c8a37c5600b",
+    "title": "10月14日热门中概股涨跌互现 理想涨超3% 文远知行跌超5%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d30a2a2809dd",
+    "title": "10月14日美股成交额前20：美光跌超3% 市场担忧存储芯片价格上涨周期见顶",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-dd0e9543e616",
+    "title": "10月14日美股收盘：三大股指收低 存储芯片股承压",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-77337a723df1",
+    "title": "里士满联储行长：采取行动应对持续通胀是合理的",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5249f45670d5",
+    "title": "美国债市：国债长端领涨 纽约联储行长鸽派言论支撑短端",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d8597e27ad87",
+    "title": "美联储威廉姆斯：2027年可能无需加息 与交易员看法相左",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9a55caf16e96",
+    "title": "美债期货负凸性升至近20年高位 MOVE指数创立者警告“噩梦情景”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6aa9b685389b",
+    "title": "Rosenberg：美股越来越像泡沫 多项指标极端程度从业40年来未见",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6e023c6ac363",
+    "title": "摩根大通禁止Muse、Instinct等外部AI代理直接访问账户",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-be6825af0c50",
+    "title": "戴尔CEO：AI 需要保障措施和控制，政府应发挥作用",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-aac1c24b27ae",
+    "title": "华尔街股票业务罕见跑赢固收 利率上升冲击债券交易",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-81636dbfe4de",
+    "title": "纽约汇市：美元从三个月高点回落 油价和美债收益率走低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1fad49d5f059",
+    "title": "伊朗要求英国提供费尔福德事件证据 威胁重新考虑两国关系",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a080bb8a0771",
+    "title": "纽约联储行长预计明年无需加息 称通胀有望大幅放缓",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6f63e2beaa61",
+    "title": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3144833e8f81",
+    "title": "高通：陪审团认定Arm违反许可协议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-20e6cc4ea8c1",
+    "title": "桥水创始人称美债熊市之路远未到头 部分传统买家需求减弱",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ab8fd5c44e60",
+    "title": "沙特拦截胡塞武装新一轮导弹袭击 特朗普对该组织发出隐晦威胁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-57d1e9962076",
+    "title": "欧洲债市：德国国债小幅上涨 油价回落提供支撑",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b2e705c0a08f",
+    "title": "高盛主经纪业务风生水起 股票交易只能靠后站",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-abfef0a6bd11",
+    "title": "美银调查：10年期美债收益率升至5.9%，基金经理才会弃股投债",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2cc1d0c042a7",
+    "title": "担忧AI泡沫的投资者，应当警惕这一项风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-03abc31e3807",
     "title": "欧洲股市尾盘转跌 科技股受AI交易担忧拖累",
     "source": "新浪体育",
@@ -490,214 +698,6 @@
   {
     "id": "news-2e520d0d80ac",
     "title": "美国小企业乐观情绪降至三个月低点 经营预期和扩张意愿走弱",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-92cc10d98db8",
-    "title": "摩根大通利润不及分析师预期，戴蒙警示经济 “暗流正在发生变化”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fc00d47f5c56",
-    "title": "KeyBanc分析师：奈飞可通过四项举措终止股价暴跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b33b819578f8",
-    "title": "伊朗升级对霍尔木兹海峡船只袭击 波斯湾石油出口复苏面临威胁",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-42722243a5d7",
-    "title": "美国三大银行第三财季净利息收入再创纪录 合计565亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fc977c6b90c7",
-    "title": "摩根大通、富国银行、花旗财报显示：高利率环境下美国消费者韧性仍存",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-64328d9cd5f2",
-    "title": "特朗普：可能要求土耳其加入打击胡塞武装的行动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-37729666e04f",
-    "title": "美光、SK海力士股价大跌，韩国股市重挫后芯片板块抛售潮加剧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4f568e82e270",
-    "title": "苹果智能家居系列亮相 核心产品HomeView挑战亚马逊和谷歌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4033bf662250",
-    "title": "金佰利与科赴400亿美元并购案获欧盟附条件批准",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d318cbc9494c",
-    "title": "沙特内阁：胡塞武装将为其袭击行动承担后果",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b9c59fffa607",
-    "title": "高盛CEO斥高层人事变动说为“噪音” 说没有交班时间表",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f2c2775a6e25",
-    "title": "高盛CEO斥高层人事变动说为“噪音” 说没有交班时间表",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fd39dee03a35",
-    "title": "摩根大通财报披露后推介最新一批投资级债券",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ee86cef1b80a",
-    "title": "债市资深人士Bassman：若20年期美债收益率升至6% “噩梦情景”将出现",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a9142db127d9",
-    "title": "AI实验室财务数据成为科技市场交易核心，Anthropic将披露最新营收数据",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-185dfe652ce2",
-    "title": "白宫已要求金伯莉・吉尔福伊尔大使辞职，新任白宫新闻秘书对外证实",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7407a407b1b3",
-    "title": "数千美国房主面临可调利率抵押贷款利率重设，月供将大幅走高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e0e43cbd71d4",
-    "title": "苹果推出带屏幕智能家居中枢HomeView，集中展示Siri AI新能力",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6d5afff5078b",
-    "title": "沙特9月原油产量跃升三分之一 从逾30年低点反弹",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ea6fbdf252ea",
-    "title": "美国二手房销售在房贷利率冲击前小幅上升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d99da0416391",
-    "title": "联邦贸易委员会及多州指控：马丁・什克雷利违反制药行业终身从业禁令",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-794b0f9801d4",
-    "title": "贝森特与韩国财长通话 强调美韩关系的重要性",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-02f0bf99dfb2",
-    "title": "黑石总裁和美联储理事沃勒：法国财政压力给高赤字国家敲响警钟",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bacc8cbdd6be",
-    "title": "沙特向欧佩克上报上月原油产量大增三分之一 从三十余年低点回升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c24f70e48dce",
-    "title": "伊朗海军称一艘“违规”油轮在霍尔木兹海峡东部水域起火",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5202550aeaae",
-    "title": "“各类新云服务商”厂商Prime Intellect收购初创公司 加速推理业务",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
