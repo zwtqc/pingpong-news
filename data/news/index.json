@@ -464,6 +464,102 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-44ec3fac2df7",
+    "title": "纳斯达克称数据馈送中断问题现已解决",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1c201f362bea",
+    "title": "10月16日收盘：耐克涨超5% 科技以外板块拉动大盘收涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-949a20095457",
+    "title": "欧盟据悉拟快速审批欧洲卫星合资项目 打造SpaceX竞争对手",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3a496565fa29",
+    "title": "美国债市：国债大涨 长端表现领先 美国时段避险买盘延续",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0216f403e80a",
+    "title": "华尔街资深人士称布伦特原油沦为“情绪合约” 已与现实世界脱节",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fcf8568f12fb",
+    "title": "裕信银行增持德国商业银行获欧洲央行批准 为取得控制权铺平道路",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5e9d10415561",
+    "title": "特朗普：美国很快将推出更多应对阿片类药物过量的“Narcan类”产品",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-be0acb2dffb3",
+    "title": "法新社：法国和德国达成协议以保护欧盟汽车产业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ebd41cdfbb98",
+    "title": "美军证实在霍尔木兹海峡沉没的集装箱船曾遭伊朗投射物击中",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-aff5d68b12f3",
+    "title": "谷歌宣布突破量子计算核心资源瓶颈 Willow计算误差降低40倍",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fdbb744b7177",
+    "title": "印度多家头部资管公司周四限制黄金ETF及相关母基金申购",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5c97cb67a2d9",
+    "title": "法国与德国就汽车工业未来达成协议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-32d66453668d",
     "title": "巴克莱上调评级，卡骆驰股价走高",
     "source": "新浪体育",
@@ -602,102 +698,6 @@
   {
     "id": "news-026e03e5dbb5",
     "title": "英国财政大臣希利拟提高银行税 应对中东战争冲击",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-402ae821810c",
-    "title": "美国财政部驳斥IMF债务警告，称其预测“漏洞百出”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7c16b343e888",
-    "title": "CoreWeave暴跌超百亿美元市值 德意志银行：存在买入机会",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5d742d4f2d01",
-    "title": "美国9月批发物价同比大涨6.3%，创2022年以来最大涨幅",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-44a37781b2d1",
-    "title": "台积电芯片产能成AI客户“激烈争夺”的战场，公司交出创纪录季度业绩",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-548342dd5a39",
-    "title": "贝尔德分析师：华尔街已经“厌倦英伟达银行、AMD银行与博通银行”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-069ff20cca56",
-    "title": "分析师：黄仁勋时机合适时才会谈及CoreWeave业务",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5e33eb6b5995",
-    "title": "芯片股暴跌蒸发万亿美元 杠杆ETF却吸引创纪录资金流入",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c05d2ef14d39",
-    "title": "受AI融资相关担忧拖累，英伟达股价下挫",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d6c2e036bd7e",
-    "title": "中子号火箭首飞推迟至2027 年，火箭实验室股价大跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-551f73a205ee",
-    "title": "三部门联合调查刹车踏板支架断裂问题，尊界汽车：全力配合联合调查组工作",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-14bfdcee6cf9",
-    "title": "可口可乐股价创历史新高，过去一年累计回报超40%，投行维持95美元目标价",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1acb9b983dff",
-    "title": "白宫新闻秘书凯蒂・扎卡里亚未通过律师资格考试",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
