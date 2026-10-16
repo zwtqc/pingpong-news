@@ -464,6 +464,110 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-41b5440bf36d",
+    "title": "原油：布伦特自5月以来首次触及110美元 供应缓解前景黯淡",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-edbbad4d196f",
+    "title": "上任五天就出局 扎卡里亚已不再是特朗普的首席发言人",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7c80fa7dc4a9",
+    "title": "纽约汇市：美元料录得逾一个月来首次单周下跌 AI股下跌推升避险需求",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9e5940e98f89",
+    "title": "特朗普称“不急于”任命新的白宫新闻秘书",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-372e67333401",
+    "title": "软银据悉考虑收购美国最大安保公司Allied 交易价值或近300亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5f2ed07c9b80",
+    "title": "伊朗称愿帮助解决沙特与也门之间的冲突",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0d8de6badb1a",
+    "title": "美国联邦预算赤字在2026财年达到1.99万亿美元 扩大约12%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-402f5c87ec6f",
+    "title": "美军过去7天协助超过1亿桶原油运出霍尔木兹海峡",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0fd416d43f4b",
+    "title": "NBA加强体育博彩监管：收紧可投注项目 部署AI监控可疑投注",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-83da02b4d818",
+    "title": "Anthropic与纽约市审计长建立沟通渠道 后者之前呼吁推迟IPO",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-dc45ab68ae43",
+    "title": "特朗普称新任新闻秘书应该“重新考虑”是否继续任职",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1b64153b99e5",
+    "title": "特朗普：俄罗斯将释放柴油",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8beea8ab643f",
+    "title": "美国财政部对一级交易商季度调查 询问应考虑如何调整国债拍卖规模",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-74bf44eeaa4d",
     "title": "花旗、美银限制AI智能体访问账户 防范存款被自动划转流失",
     "source": "新浪体育",
@@ -594,110 +698,6 @@
   {
     "id": "news-71a35b7c4cd6",
     "title": "蓝色起源计划斥资3.3亿美元扩建佛罗里达工厂，提升新格伦火箭发射产能",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b572edda8f9b",
-    "title": "美国将以交换计划的形式从战略石油储备中提供至多1700万桶原油",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4b6d5122f14b",
-    "title": "美国长期国债涨势止步 全球股市反弹削弱了避险需求",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e29df2bd852a",
-    "title": "CoreWeave股价遭抛售，如何影响OpenAI与 Anthropic的估值",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-198910c243a3",
-    "title": "预测市场：特斯拉与SpaceX 2027年初合并概率已超50%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-37122b62426c",
-    "title": "镰状细胞基因疗法带来新希望，但可及性仍是重大难题",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bf39184654ff",
-    "title": "NatWest将旗下市场证券业务退出美国一级交易商行列",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9d11506cc0f5",
-    "title": "高盛：政策明朗化将给巴西市场带来更多上涨空间",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dd3c326f094c",
-    "title": "股价操纵丑闻或将导致土耳其企业被排除在全球指数之外",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2fbef9a0061c",
-    "title": "美国9月制造业产值反弹 半导体生产表现强劲",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c6e6dc39b098",
-    "title": "欧洲版SpaceX股价暴涨19%：乌克兰“星盾”使用受限引发市场担忧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d4eeca9cd606",
-    "title": "301117，被罚600万元！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7ebeb12cf8ab",
-    "title": "炸裂！长鑫科技业绩来了，更有大手笔回购",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9d6982b658bd",
-    "title": "关键预算案前夕，银行增税传闻打压伦敦银行股",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
