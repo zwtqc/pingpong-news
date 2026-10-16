@@ -464,8 +464,208 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-f0cb81fc9dbb",
+    "title": "10月17日隔夜要闻：纳指跌超2% 布伦特原油触及110美元 铜价反弹 黄仁勋谈AI市场震荡“这一切都会过去”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c9e2bd2c8edf",
+    "title": "CoreWeave单周暴跌25% 凸显AI交易中恐惧与贪婪角力",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e919aa99b76f",
+    "title": "地缘冲突消息刺激 国际油价16日显著上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-88fe859744d2",
+    "title": "无视特朗普促和努力 俄罗斯和乌克兰继续相互打击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c79545280a1b",
+    "title": "比利时和加拿大加仓美债",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-07156e423ccd",
+    "title": "大宗商品综述：布伦特大涨 铜价反弹 金价微跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-11ef4ad3944b",
+    "title": "Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f0041441b2a5",
+    "title": "五部门发布风险提示！",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e5e121aa9911",
+    "title": "芯片股暴跌重创多头 做空者却7天账面获利320亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-06d94cfc2b54",
+    "title": "10月17日外盘头条：特朗普否认关停乌克兰卫星系统 美国2026财年联邦预算赤字达到1.99万亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6816bdaace30",
+    "title": "英国顶住欧盟施压，拒对中国加税",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0529f2c962ef",
+    "title": "视频丨霍尔木兹海峡商船遇袭推高油价 美以密商打击伊朗预案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5778c8301f97",
+    "title": "穆迪将埃及信用评级上调至B3",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9d3aab438015",
+    "title": "美国股市：标普500指数创6月以来最差单周表现 AI担忧重创芯片股",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b8bc5c419c95",
+    "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c8f12cfc9036",
+    "title": "AWS CFO：AI基建投入热潮具备可持续性 投资回报周期不足三年",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-65255fc3d9b8",
+    "title": "黄仁勋谈AI市场震荡 “这一切都会过去”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e52b4a0fd7df",
+    "title": "美国2026财年联邦预算赤字达到1.99万亿美元 净利息支出创纪录",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-563ed2c8abd0",
+    "title": "美国债市：国债长端收跌 美国时段午后油价飙升",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-abd2990c110f",
+    "title": "摩洛哥组成新政府",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-54c19863cfa3",
+    "title": "10月17日热门中概股多数下跌，台积电跌超2%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-652b124a4e1e",
+    "title": "10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近12% 布油触及110美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b264d564f56c",
+    "title": "特朗普否认限制乌克兰卫星系统 乌方对此存疑",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bf2c4cd2777f",
+    "title": "安理会举行联合国秘书长遴选第六轮意向性投票",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-41b5440bf36d",
     "title": "原油：布伦特自5月以来首次触及110美元 供应缓解前景黯淡",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1b8fb48511ab",
+    "title": "也门亚丁国际机场遭胡塞武装导弹袭击",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -496,208 +696,8 @@
     "is_chinese_related": false
   },
   {
-    "id": "news-372e67333401",
-    "title": "软银据悉考虑收购美国最大安保公司Allied 交易价值或近300亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5f2ed07c9b80",
-    "title": "伊朗称愿帮助解决沙特与也门之间的冲突",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0d8de6badb1a",
-    "title": "美国联邦预算赤字在2026财年达到1.99万亿美元 扩大约12%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-402f5c87ec6f",
-    "title": "美军过去7天协助超过1亿桶原油运出霍尔木兹海峡",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0fd416d43f4b",
-    "title": "NBA加强体育博彩监管：收紧可投注项目 部署AI监控可疑投注",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-83da02b4d818",
-    "title": "Anthropic与纽约市审计长建立沟通渠道 后者之前呼吁推迟IPO",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dc45ab68ae43",
-    "title": "特朗普称新任新闻秘书应该“重新考虑”是否继续任职",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1b64153b99e5",
-    "title": "特朗普：俄罗斯将释放柴油",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8beea8ab643f",
-    "title": "美国财政部对一级交易商季度调查 询问应考虑如何调整国债拍卖规模",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-74bf44eeaa4d",
-    "title": "花旗、美银限制AI智能体访问账户 防范存款被自动划转流失",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-92d43a89de55",
-    "title": "特朗普建议首席发言人扎卡里亚“重新考虑”去留",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0cfb08650b2e",
-    "title": "为何特朗普与共和党耗资数十亿美元的中期选举闪电攻势收效甚微",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b30fbf36104f",
-    "title": "嘉信理财将推出“税务感知型”投资策略，已吸引海量高净值投资者资金",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f390a090b856",
-    "title": "普京下令俄军继续袭击乌克兰基础设施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e5fa96d20278",
-    "title": "市场普遍预期美联储10月维持利率不变，但凯文・沃什可能带来意外",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8414720f2ff4",
-    "title": "美国老年群体感受的生活成本压力更小，这将如何影响中期选举",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-72c3f7a8ee96",
-    "title": "欧元势将终结五周连跌 沃什言论推动美元走弱",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8cefedb5395e",
-    "title": "量化基金巨头Two Sigma停止为不动产部门筹资并裁撤高层",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-26196cffaabd",
-    "title": "若美联储10月按兵不动 长期债券抛售潮恐将重启",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7e0cda5929fc",
-    "title": "欧洲股市表现领先美股 受益于投资者撤出AI交易",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9eb715df32b7",
-    "title": "伯克希尔加码投资Bending Spoons，探寻新资本投放路径",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f9a975fc8d42",
-    "title": "双11 iPhone Duo平台大战：预售秒罄，首批现货最高溢价超7000元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-19427735d3a6",
-    "title": "富国银行警示：谨慎买入长久期债券",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a7a0e46c19d0",
-    "title": "半导体板块回调之后，投资者将目光投向何处",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e3707a592e6e",
-    "title": "e.l.f. Beauty首席财务官菲尔兹谈消费者、定价与美妆行业根基建设",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-71a35b7c4cd6",
-    "title": "蓝色起源计划斥资3.3亿美元扩建佛罗里达工厂，提升新格伦火箭发射产能",
+    "id": "news-c98d69f21c83",
+    "title": "马杜罗之子：美方针对马杜罗夫妇的司法程序非法",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
