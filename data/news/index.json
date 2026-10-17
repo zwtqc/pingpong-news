@@ -464,6 +464,118 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-7ce57d9e7b06",
+    "title": "苹果称首款折叠屏iPhone需求异常强劲 部分订单预计明年交付",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3a9701a6d052",
+    "title": "国窖1573、古井贡古20领涨 青花郎零售均价突破700元 飞天茅台小幅回落",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-22b80b99a857",
+    "title": "特斯拉跑车完成空中特技 引发与SpaceX合并猜想",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0a1e01dfd2ba",
+    "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-835879c3bfb0",
+    "title": "Anthropic在最新一轮芯片融资中向黑石提供两位数收益率",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-33b425c58c1a",
+    "title": "抖音电商因“操纵舆论”等言论起诉京东员工，京东回应：法务部将支持员工提起反诉",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6941f5b21cce",
+    "title": "英伟达市值，9天蒸发4万亿元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-105196421bba",
+    "title": "晨星：梅洛尼在意大利推行的财政紧缩政策或将延续",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-103decadbbff",
+    "title": "REITs快报来了！本周80只录得环比上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6a5e32f4ced3",
+    "title": "美联储进入静默期前夕，沃什在曼谷的发言吐露“鸽心”？",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2d778dedec1f",
+    "title": "伊尔汗·奥马尔在新函件中反击住宅搜查",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5987067cacf4",
+    "title": "特朗普在佐治亚州宣扬制造业增长 共和党瞄准奥索夫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0b7eb76b26f7",
+    "title": "上任一周，白宫新任新闻秘书被曝走人！特朗普亲自“劝退”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-97b76542461a",
+    "title": "暴雨、大风、强对流三预警齐发,中央气象台：今早至明天 北京、天津、山西、山东、河南、安徽等地有大到暴雨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-f0cb81fc9dbb",
     "title": "10月17日隔夜要闻：纳指跌超2% 布伦特原油触及110美元 铜价反弹 黄仁勋谈AI市场震荡“这一切都会过去”",
     "source": "新浪体育",
@@ -560,144 +672,32 @@
     "is_chinese_related": false
   },
   {
+    "id": "news-77f9e2760a43",
+    "title": "习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d83c96cc989e",
+    "title": "人民日报今日谈：推动数字经济与实体经济深度融合",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-160bb39f62e4",
+    "title": "三部门联合发文 养老服务价格政策将进一步完善",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-5778c8301f97",
     "title": "穆迪将埃及信用评级上调至B3",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9d3aab438015",
-    "title": "美国股市：标普500指数创6月以来最差单周表现 AI担忧重创芯片股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b8bc5c419c95",
-    "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c8f12cfc9036",
-    "title": "AWS CFO：AI基建投入热潮具备可持续性 投资回报周期不足三年",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-65255fc3d9b8",
-    "title": "黄仁勋谈AI市场震荡 “这一切都会过去”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e52b4a0fd7df",
-    "title": "美国2026财年联邦预算赤字达到1.99万亿美元 净利息支出创纪录",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-563ed2c8abd0",
-    "title": "美国债市：国债长端收跌 美国时段午后油价飙升",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-abd2990c110f",
-    "title": "摩洛哥组成新政府",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-54c19863cfa3",
-    "title": "10月17日热门中概股多数下跌，台积电跌超2%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-652b124a4e1e",
-    "title": "10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近12% 布油触及110美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b264d564f56c",
-    "title": "特朗普否认限制乌克兰卫星系统 乌方对此存疑",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bf2c4cd2777f",
-    "title": "安理会举行联合国秘书长遴选第六轮意向性投票",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-41b5440bf36d",
-    "title": "原油：布伦特自5月以来首次触及110美元 供应缓解前景黯淡",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1b8fb48511ab",
-    "title": "也门亚丁国际机场遭胡塞武装导弹袭击",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-edbbad4d196f",
-    "title": "上任五天就出局 扎卡里亚已不再是特朗普的首席发言人",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7c80fa7dc4a9",
-    "title": "纽约汇市：美元料录得逾一个月来首次单周下跌 AI股下跌推升避险需求",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9e5940e98f89",
-    "title": "特朗普称“不急于”任命新的白宫新闻秘书",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c98d69f21c83",
-    "title": "马杜罗之子：美方针对马杜罗夫妇的司法程序非法",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
