@@ -464,6 +464,30 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-f5648be22228",
+    "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d14027ab120b",
+    "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f5f5b628eaa0",
+    "title": "美国大型银行股创下2008年以来最长周度连跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-e34b4b9250af",
     "title": "欧洲央行行长拉加德：债券抛售拖累经济增长并将抑制通胀",
     "source": "新浪体育",
@@ -674,30 +698,6 @@
   {
     "id": "news-d548c20edd0e",
     "title": "港股医药IPO“包盘”调查：新规发布2025年8月是一道分水岭",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0a1e01dfd2ba",
-    "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-835879c3bfb0",
-    "title": "Anthropic在最新一轮芯片融资中向黑石提供两位数收益率",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-33b425c58c1a",
-    "title": "抖音电商因“操纵舆论”等言论起诉京东员工，京东回应：法务部将支持员工提起反诉",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
