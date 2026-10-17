@@ -464,6 +464,150 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-b959aa9eed9b",
+    "title": "IMF总裁格奥尔基耶娃声明：经济韧性可持续“不能想当然”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f63dad1c47c1",
+    "title": "沙特媒体揭秘胡塞武装手搓导弹：技术人员靠颜色编码组装弹药 零部件来源于多个国家 在也门境内完成本地组装",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0af4a018177c",
+    "title": "厄尔尼诺气候损害作物 印度停止将糖用于乙醇生产",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8bcbaf66a44a",
+    "title": "美国中期选举广告分析：民主党提及特朗普的广告投入是共和党的十倍",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cf2c097618ec",
+    "title": "专访丨IMF官员警告全球经济面临紧迫财政挑战",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9ff81c9067e7",
+    "title": "一周“纪”事：为健康中国建设保驾护航",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-16b0d4340c31",
+    "title": "黄仁勋称AI市场震荡将会过去，密集欧洲行持续释放信心",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-77d3dc5a405d",
+    "title": "自愿放弃无效 用人单位欠缴社保最高罚3倍 新规即将施行",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ac9c9d25febb",
+    "title": "视频丨特朗普称乌军“星盾”故障与美国无关",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-812377ed361a",
+    "title": "美股牛市第五年开局遭“重挫”：半导体股蒸发2万亿美元“缺钱”成最大风险",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-71c6ea1c411a",
+    "title": "飞机“刹车”与汽车“刹车”有啥不一样？",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5fba9bea1587",
+    "title": "厄瓜多尔一艘渔船疑似沉没 14名船员失踪",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5355da217dfd",
+    "title": "应届生涌向机器人秋招：年薪50万元成“白菜价”，正式offer不好拿",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0ab90520577c",
+    "title": "绿泡泡短剧入场，短剧为何又回到了小程序？",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2ec4a179ba61",
+    "title": "一线调研丨平均通航时间减半 流程图看“黄金水道”改革破局",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b717cc393245",
+    "title": "我国高等职业学校占全国高等学校半数以上",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-740c344437b9",
+    "title": "特朗普宣布暂缓实施新一轮对俄制裁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9a5977373c06",
+    "title": "001232，拟港股IPO",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-7ce57d9e7b06",
     "title": "苹果称首款折叠屏iPhone需求异常强劲 部分订单预计明年交付",
     "source": "新浪体育",
@@ -482,6 +626,14 @@
   {
     "id": "news-22b80b99a857",
     "title": "特斯拉跑车完成空中特技 引发与SpaceX合并猜想",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d548c20edd0e",
+    "title": "港股医药IPO“包盘”调查：新规发布2025年8月是一道分水岭",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -546,158 +698,6 @@
   {
     "id": "news-2d778dedec1f",
     "title": "伊尔汗·奥马尔在新函件中反击住宅搜查",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5987067cacf4",
-    "title": "特朗普在佐治亚州宣扬制造业增长 共和党瞄准奥索夫",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0b7eb76b26f7",
-    "title": "上任一周，白宫新任新闻秘书被曝走人！特朗普亲自“劝退”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-97b76542461a",
-    "title": "暴雨、大风、强对流三预警齐发,中央气象台：今早至明天 北京、天津、山西、山东、河南、安徽等地有大到暴雨",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f0cb81fc9dbb",
-    "title": "10月17日隔夜要闻：纳指跌超2% 布伦特原油触及110美元 铜价反弹 黄仁勋谈AI市场震荡“这一切都会过去”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c9e2bd2c8edf",
-    "title": "CoreWeave单周暴跌25% 凸显AI交易中恐惧与贪婪角力",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e919aa99b76f",
-    "title": "地缘冲突消息刺激 国际油价16日显著上涨",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-88fe859744d2",
-    "title": "无视特朗普促和努力 俄罗斯和乌克兰继续相互打击",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c79545280a1b",
-    "title": "比利时和加拿大加仓美债",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-07156e423ccd",
-    "title": "大宗商品综述：布伦特大涨 铜价反弹 金价微跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-11ef4ad3944b",
-    "title": "Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f0041441b2a5",
-    "title": "五部门发布风险提示！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e5e121aa9911",
-    "title": "芯片股暴跌重创多头 做空者却7天账面获利320亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-06d94cfc2b54",
-    "title": "10月17日外盘头条：特朗普否认关停乌克兰卫星系统 美国2026财年联邦预算赤字达到1.99万亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6816bdaace30",
-    "title": "英国顶住欧盟施压，拒对中国加税",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0529f2c962ef",
-    "title": "视频丨霍尔木兹海峡商船遇袭推高油价 美以密商打击伊朗预案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-77f9e2760a43",
-    "title": "习近平在内蒙古乌兰察布考察时强调 统筹高质量发展和高水平保护 坚定不移走生态优先绿色发展之路",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d83c96cc989e",
-    "title": "人民日报今日谈：推动数字经济与实体经济深度融合",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-160bb39f62e4",
-    "title": "三部门联合发文 养老服务价格政策将进一步完善",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5778c8301f97",
-    "title": "穆迪将埃及信用评级上调至B3",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
