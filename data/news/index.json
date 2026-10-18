@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-997c0ee6e9c6",
+    "title": "特朗普发文：正斡旋俄乌和平谈判，批评泽连斯基不愿停战",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-441387c255a3",
     "title": "泽连斯基：特朗普正逼迫乌克兰向俄罗斯投降",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-39be1d8b3da6",
     "title": "渣打集团于10月15日斥资838.55万英镑回购39.61万股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0507969c16dc",
-    "title": "新鸿基公司于10月16日斥资27.3万港元回购7万股",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
