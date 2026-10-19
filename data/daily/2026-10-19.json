@@ -21,7 +21,13 @@
       "tournament_id": "wtt-grand-smash-2026-02"
     }
   ],
-  "top_news": [],
+  "top_news": [
+    {
+      "title": "大兴区企业乒乓球邀请赛总决赛 邓亚萍为选手颁奖",
+      "source": "新浪体育",
+      "url": null
+    }
+  ],
   "chinese_players": {
     "active_count": 4,
     "names": [
@@ -64,5 +70,5 @@
     }
   ],
   "share_url": "https://zwtqc.github.io/pingpong-news/",
-  "generated_at": "2026-10-19T07:21:14.167928"
+  "generated_at": "2026-10-19T14:52:06.522408"
 }
