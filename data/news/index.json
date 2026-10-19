@@ -464,8 +464,224 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-6fe6543927fe",
+    "title": "美国债市：国债小幅走低 油价上涨与风险偏好回升带来压力",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ee8a3f93e996",
+    "title": "Nscale与Anthropic据悉洽谈约450亿美元云算力大单",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0892f72195fe",
+    "title": "胡塞武装持续袭击 沙特将旗舰投资大会推迟至2027年",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a58aa337bc8f",
+    "title": "苹果宣布将于10月28日举行产品发布活动，分析师预计将推出触屏笔记本电脑",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f27c7fd6da7d",
+    "title": "德国总理默茨警告称欧洲低估了俄罗斯的威胁",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a7f354de6308",
+    "title": "美国宣布价值约120亿美元中亚协议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ea9ce25c8c0d",
+    "title": "美国能源部长：受制裁油轮可经审批运输合法原油",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-efaad96c772c",
+    "title": "高盛：对冲基金以至少十年来最快速度减持科技股",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-198abc4875e2",
+    "title": "创始人内斗持续 Two Sigma高管Seth Platt拟离职",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3cf29dd90f70",
+    "title": "私募股权“退出难”催生新招 高盛等投行试水常青续存基金",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-967fc767826b",
+    "title": "欧洲债市：法国国债领跌全球债市 10年期法德利差走阔10个基点",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6b42a0f87875",
+    "title": "伊朗称为维护安全“别无选择” 只能对霍尔木兹海峡行使主权",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fa15d4be467f",
+    "title": "苹果宣布10月28日举行发布会 将推出触控屏MacBook Pro",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e93f2a3826c7",
+    "title": "法国局势动荡拖累欧洲股市下跌 焦点转向企业财报",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5edd100762a9",
+    "title": "加拿大央行调查显示通胀预期上升 企业成本转嫁意愿增强",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fa870e5830cb",
+    "title": "纽约证交所延长部分期权交易时段 涉及英伟达、阿里巴巴等证券",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cb3634e693ea",
+    "title": "土耳其基金危机余波未平 市场监管机构负责人以“健康原因”为由辞职",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1056c23d4565",
+    "title": "Anthropic是今年大型IPO的最后一大希望",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d4764ef36417",
+    "title": "汇丰开始为资产管理业务寻找新任首席执行官",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6780671be134",
+    "title": "特朗普经济顾问哈塞特：通胀仍需关注 尊重美联储独立性",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-60fc905c4b20",
+    "title": "Lombard Odier认为美国增长前景将推动美元进一步走强",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d0cd659f438b",
+    "title": "民调：勒庞将在法国大选首轮投票中取胜 得票率至少31%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9de892dfa63f",
+    "title": "胡塞武装持续袭击 沙特取消旗舰投资大会线下参会安排",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8d31b2427aa8",
+    "title": "美国国防部首席技术官：考虑投资微电子企业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cebf89390dd2",
+    "title": "伊朗外长：针对里海地区伊朗和俄罗斯船只的袭击令人深感关切",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bfb0231a6cd0",
+    "title": "瑞银重申麦当劳买入评级，目标价320美元：美国同店销售预计下滑，但2027年有望重拾增长",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-53ce7f4247f5",
     "title": "300081公告：原董事长被采取刑事强制措施，对主要子公司产生重大影响",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f4388ab3bb42",
+    "title": "俄外长：破坏全球能源稳定的是欧盟和美国",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -482,222 +698,6 @@
   {
     "id": "news-2591f5fa68ce",
     "title": "美国住宅建筑商信心降至14年低点 销售持续疲软",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b758aec04f42",
-    "title": "胡塞武装袭击不断 沙特计划推迟投资大会线下活动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-164c8e8d4e35",
-    "title": "Anthropic据报准备发布推理能力优于同侪的新模型",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1913a8e39a92",
-    "title": "600293，重大资产重组！明日复牌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-128482875f60",
-    "title": "002415，冯柳减仓，裘国根加仓",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d4aadeaf6a42",
-    "title": "哈塞特称通胀似乎又“需要下些功夫”应对",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-71b5ea4be79d",
-    "title": "摩根士丹利：美股回调接近尾声 准备逢低布局风险资产",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4d0a19959d5e",
-    "title": "688121，今天“20cm”涨停！多重退市风险悬顶",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e6c52e76acb6",
-    "title": "光伏巨头不到两年亏超百亿，“铁三角”生变后欲靠储能逆袭？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-02f7a6df9e4d",
-    "title": "微软回应退出Nscale英国数据中心项目：仍维持合作关系",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dc0d03c88e79",
-    "title": "芝商所拟于2026年底前推出欧洲乳制品期货与期权合约",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-25618e3cd040",
-    "title": "纽交所为美国期权品种推出延长交易时段",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8a0c5426ac20",
-    "title": "开盘：纳斯达克指数上涨 投资者逢低买入AI板块",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d15d0df07938",
-    "title": "减持处罚新规18条来了！证监会重磅发布，严打各类违规转让证券",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e1f1a60144ec",
-    "title": "延期、暂缓后又要终止！万孚生物定增项目合理性遭拷问",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-33143b42d40e",
-    "title": "百亿A股公司独董被查！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3279c065b07d",
-    "title": "盘前：纳斯达克100指数期货上涨1.3% 市场看好本周Meta、特斯拉财报稳住大盘",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e7ad85711e5c",
-    "title": "600293，重大资产重组方案公布！明天复牌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-77bc14d1c2ba",
-    "title": "吴清给资本市场划重点：稳市、改革、严监管、扩开放，新政在路上",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5d899a9c28ee",
-    "title": "Cantor Fitzgerald重申Rocket Lab增持评级：目标价122美元，潜在上涨空间达140%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1d69af3f487f",
-    "title": "特斯拉新款Roadster亮相，可短暂悬空、零百加速不到1秒，Cantor Fitzgerald维持485美元目标价",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ca5657818917",
-    "title": "吴清最新发言八大要点：谈中国资产、市场稳定和AI浪潮",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4edfd68a50f8",
-    "title": "一晚近30家沪市主板公司释放积极信号",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4d88b711cd48",
-    "title": "沙特利雅得机场在胡塞武装袭击后限制航班起降",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e1da14cc5fd7",
-    "title": "CoreWeave一周暴跌23.5%，Cantor Fitzgerald重申增持：算力投资回收期几乎减半",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9fcb63a6caf1",
-    "title": "特朗普政府幕僚准备对拖欠助学贷款借款人采取惩戒措施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8da91549ffea",
-    "title": "美国食品杂货巨头因合并失败在90亿美元诉讼中对簿公堂",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eb4720c9e97d",
-    "title": "法国骚乱后加强安保措施 巴黎高端酒店出现退订",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
