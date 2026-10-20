@@ -464,6 +464,182 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-62f02022653f",
+    "title": "马斯克：SpaceX与特斯拉已开始研究潜在合并交易",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1765ac72cd93",
+    "title": "马斯克：SpaceX与特斯拉已成立特别委员会研究潜在合并",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5e2485f84061",
+    "title": "纽约汇市：美元触及9月份以来最低 布伦特原油回落",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3c90f0a8f84b",
+    "title": "大宗商品综述：油价金价震荡走低 铜价上扬",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-913dca7cc837",
+    "title": "10月21日外盘头条：波音737Max10获批 马斯克称SpaceX与特斯拉商讨合并 特朗普因对加拿大征收关税被起诉",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8c475ece7cb8",
+    "title": "马斯克：SpaceX与特斯拉已各自成立特别委员会，商讨合并事宜",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8ad607a239d8",
+    "title": "奈飞预计营收增速连续第四个季度放缓 股价盘后重挫7%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1a563be5c004",
+    "title": "原油：布伦特走势震荡 交易员研判美伊谈判进展相关报道",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ce1fce2a81a0",
+    "title": "特朗普因对加拿大征收50%关税被起诉",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c1e7b6c20a7a",
+    "title": "奈飞第三季度财报超预期，但广告和营收指引导致股价下跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e573e5adb23e",
+    "title": "法国2027年总统大选玛丽娜·勒庞胜选概率上升",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-af440f2ff900",
+    "title": "美国股市：标普500指数ETF盘后上涨 SpaceX盈利超预期",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7f621b10d766",
+    "title": "波音737 Max 10在多年延误后获FAA批准，达菲称认证流程应更快",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c5b2775963e3",
+    "title": "美国债市：国债涨跌不一 长端表现出色推动曲线趋平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8d334d5435e4",
+    "title": "10月21日热门中概股多数上涨 理想涨超5% 小鹏涨超7%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e52890d0a745",
+    "title": "10月21日美股成交额前20：苹果跌1% 宣布扩大新产品零部件在美国的生产",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-99dbe29c9157",
+    "title": "SpaceX营收跃升161%，受Starlink和AI驱动",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-26bab1cbea9e",
+    "title": "富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版 且情况更严重",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5431040265c3",
+    "title": "10月21日收盘：纳指微跌 道指大涨500点 财报乐观情绪稳定市场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-eda03db19b53",
+    "title": "美国特使威特科夫访问圣彼得堡期间将与普京会面",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0441494cfc64",
+    "title": "对冲基金融资触及上限 巴克莱内部腾挪资本支持客户押注",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bc5455e37ce6",
+    "title": "欧洲股市持稳 医疗保健和旅游休闲股表现较好",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-afd2266ef778",
     "title": "城堡证券考虑扩大固定收益业务版图 称目前存在一些空白",
     "source": "新浪体育",
@@ -522,182 +698,6 @@
   {
     "id": "news-6862181647e4",
     "title": "法国国债风险指标徘徊高位 相对德债收益率溢价一度突破150基点",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f6c1df24f578",
-    "title": "交易员认为SpaceX财报发布后股价将继续上涨 看涨合约成交活跃",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1f76c2d35ce8",
-    "title": "彭博美元指数跌至近三周低点 布伦特原油走低",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1a73f31f21d1",
-    "title": "贝森特：美国拟明后年处理“两房”所有权结构",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-830ca17c0d28",
-    "title": "SpaceX财报前瞻：华尔街押注首次季度盈利，即便大超预期也不意味着股价大涨",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e37cd66a1a17",
-    "title": "美国9月二手房签约量环比下降7.3% 预估中值为下降0.5%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bd695c44501f",
-    "title": "美国新屋开工数降至四个月低点 为疫情以来最疲弱水平之一",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-cebbf5a4302d",
-    "title": "消息称Anthropic正与云计算服务商Nscale洽谈第二笔数百亿美元交易",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1b21555e8514",
-    "title": "美国9月二手房签约量指数降至纪录低点 利率高企打压购房需求",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e0b45bd981bf",
-    "title": "2连板603626，暂缓高溢价收购！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9a1c447edddd",
-    "title": "有望超越司美格鲁肽 诺和诺德新减肥药实现成年女性受试者平均减重25%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-50d01475102c",
-    "title": "LG家电自研AI半导体搭载量两年增10倍 深耕家电技术生态",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e30ccd708e22",
-    "title": "LG电子CEO：冷却技术为AI数据中心竞争力核心",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b15f151e008f",
-    "title": "贝森特：由于其他地区的问题 看到资金流入美国债券",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f224e7777670",
-    "title": "开盘：纳指下跌 美光科技、闪迪均跌约3%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-571f8c16e0d2",
-    "title": "三星8纳米再延续一代：8LPU+年内推出，主攻汽车与边缘AI芯片",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-69102a46417b",
-    "title": "二连板涨停后，603626宣布：暂缓重要收购！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6be93abda49c",
-    "title": "百亿A股公司，筹划赴港上市！",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f79240442b19",
-    "title": "ADP：截至10月3日的四周 美国私营部门就业人数平均每周增加18500人",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-43116d08e2c6",
-    "title": "机构：维持亚马逊跑赢大盘评级 AWS短期增长高于预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2f570766d20e",
-    "title": "美国股指期货走低 AI相关忧虑重返市场",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-187495bdaf16",
-    "title": "苹果为iPhone Duo新增美国本土钛金属供应商，当前供货持续紧张",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1710a01448f5",
-    "title": "法国骚乱期间 路易威登、爱马仕等奢侈品零售商遭洗劫",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
