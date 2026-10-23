@@ -464,6 +464,86 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-069222069331",
+    "title": "缅因共和党参议员透露特朗普将降低部分加拿大产品关税",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-968b5ced91d3",
+    "title": "欧洲股市本周跌超1%：法国财政危机冲击债市，AI融资担忧与油价飙升加剧抛售",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2268541e728f",
+    "title": "为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8bc62941a172",
+    "title": "富国银行：中期选举前宜押注美债上涨、做空美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-affacbbf5a82",
+    "title": "美国将氦列入关键材料清单 供应链中断风险上升",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-26be9c7eeac1",
+    "title": "SK海力士放弃Solidigm美国IPO计划，分析师：利好美光和闪迪，缓解NAND闪存产能过剩担忧",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e85677ecf3d8",
+    "title": "AI将漏洞发现“工业化” Anthropic高管警告网络安全风险或进一步恶化",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fff28d574621",
+    "title": "欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fde30f8e5053",
+    "title": "美国将氦归类为制造半导体的关键材料",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9ef1f90d1fb9",
+    "title": "CoreWeave本月暴跌37%，瑞银下调目标价至105美元：AI融资风险加剧，市场信心恢复或需数个季度",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-75f013af7a67",
     "title": "10月23日美股盘中：三大指数集体下跌，AI融资担忧持续发酵，布伦特原油升破115美元",
     "source": "新浪体育",
@@ -618,86 +698,6 @@
   {
     "id": "news-7b01219b70eb",
     "title": "资本项目外汇管理一揽子政策重磅落地，企业跨境投融资空间将拓宽",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e7045de36606",
-    "title": "巴西总统决选结果难料 华尔街的“博索纳罗交易”迎来大考",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7786c17bcd9d",
-    "title": "跨境投融资迎利好！一揽子便利化政策拟推出",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c5143b079ff1",
-    "title": "欧盟对华光伏玻璃12年“双反”落幕",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fde466c860c5",
-    "title": "美银料避险情绪延续至11月中旬 收益率、股市和美元或齐跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-538f46b78882",
-    "title": "黑海商船遭无人机袭击后沉没 俄被指为幕后责任方",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5bf639dbc121",
-    "title": "泡泡玛特六连跌，“亏麻了”的段永平仍想加仓",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d68c15788283",
-    "title": "美国运通盘前股价走低 刷卡消费额逊于预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a2303ad6211c",
-    "title": "日本央行据悉或维持较快加息节奏 12月成下一个关注时点",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0e3dc7db54da",
-    "title": "哈啰顺风车，怎么又涉黄？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-896082b039ca",
-    "title": "美国股指期货微跌 科技股抛售势头暂缓",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
