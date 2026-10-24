@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-fa825cbf8560",
+    "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-3566dd18b4cc",
     "title": "分析：SpaceX大幅上调Q4资本开支指引，AI算力采购规模大增",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-bf45a9f776a4",
     "title": "穆迪完成审查后未对法国采取任何评级行动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1efdfbe76db5",
-    "title": "特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
