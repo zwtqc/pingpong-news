@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-1bc9e6771311",
+    "title": "英国承诺出资1亿英镑设立生物安全实验室 OpenAI、Anthropic参与合作",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-ff44104a1c28",
     "title": "10月24日隔夜要闻：美股三大指数收跌 油价大涨 金价下跌 特朗普称可能对伊发动一次小规模“史诗怒火”行动",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-2268541e728f",
     "title": "为助力缅因州参议员，特朗普拟取消部分加拿大商品50%关税",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fab4bbc67141",
-    "title": "泽连斯基：“星链”及“星盾”速度限制仍未解除",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
