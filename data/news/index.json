@@ -464,8 +464,80 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-cb99e1a2e7f4",
+    "title": "大众计划在佐治亚新建奥迪工厂",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-be88255400dc",
+    "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c1943a1d9d6b",
+    "title": "马斯克：商业版星链严禁用于进攻性无人机作战，乌军方曾违规使用",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-da603befaa27",
+    "title": "金属交易商迎来丰厚红利，连续第二年斩获创纪录利润",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1bf40d2c3eba",
+    "title": "伊朗航司外汇供给中断，机票涨价约40%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3b2149a6b0d6",
+    "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fab1f4642b71",
+    "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-fa825cbf8560",
     "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d10752ef1f65",
+    "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-79c969c1dfe0",
+    "title": "法国示威活动致多地文化场所临时关闭",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -626,78 +698,6 @@
   {
     "id": "news-473fdb99f576",
     "title": "法国获得喘息之机 穆迪未下调其信用评级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8c59f9be02dc",
-    "title": "10月24日外盘头条：俄乌同意奥列什基停火 特朗普拟豁免更多加拿大产品关税 美国将氦列入关键材料清单",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-51711f5f2cb6",
-    "title": "俄乌同意奥列什基停火，泽连斯基称11月举行新一轮和平会谈",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f1117d204f4b",
-    "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eda99f7e0b30",
-    "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-174a64a74b7b",
-    "title": "古巴外长驳斥美方所谓“顺道解决古巴”言论",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-51d08bcde260",
-    "title": "观点综述：中期选举前宜押注美债涨、做空美元 避险情绪或延至11月中",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9934bc609870",
-    "title": "CFTC：对冲基金欧元空头押注升至2020年3月以来最高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-560b42058f3a",
-    "title": "纽约汇市：美元随AI担忧消退而持稳 澳元料创4月份以来最大周涨幅",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bf45a9f776a4",
-    "title": "穆迪完成审查后未对法国采取任何评级行动",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
