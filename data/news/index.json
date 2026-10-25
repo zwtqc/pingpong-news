@@ -464,6 +464,14 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-8404b46dae01",
+    "title": "奥巴马为中期选举造势 抨击特朗普对伊战争、翻修白宫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-3e667ca2af90",
     "title": "伊朗否认以霍尔木兹海峡换解除封锁的报道，称系\"谎言与幻想\"",
     "source": "新浪体育",
@@ -690,14 +698,6 @@
   {
     "id": "news-6baf960af858",
     "title": "2026可持续全球领导者大会·北大光华分论坛在沪举行 共探碳中和系统变革的落地路径",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-31ce0bef2422",
-    "title": "瑞士股市成为市场AI恐慌下的避风港",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
