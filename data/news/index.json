@@ -464,6 +464,118 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-5f7eb9d0c8c9",
+    "title": "特朗普称计划发布更多经济领域公告",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e635f8665af8",
+    "title": "沙特利雅得机场重新开放 胡塞武装袭击仍在持续",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a0154a0e8089",
+    "title": "GPU企业登临科技通过上市聆讯：4个月营收2亿 亏1647万 估值72亿",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6857c3ca882c",
+    "title": "特朗普宣布奥迪将在佐治亚州投资40亿美元建厂",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e94b11ff7aad",
+    "title": "明起停牌！600621，控股股东拟变更",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-cfbec893b2b5",
+    "title": "消息：伊朗并未通过巴基斯坦向美国提交新方案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c4242f749174",
+    "title": "阿布扎比王储本周将访问渥太华 两国关系持续深化",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ecfaa4bde1e3",
+    "title": "沙特股市因胡塞武装持续袭击而重挫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0d7c3830dafa",
+    "title": "明日复牌！301314，重大资产重组",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fb641dc0ab2f",
+    "title": "现上市后三季报首亏、市值缩水超12亿元，东贝集团业绩、股价双承压",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-df13076459e2",
+    "title": "埃及基准股指收于六个月来最低水平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d1cf469fc271",
+    "title": "上交所：将罗博特科(03757.HK)调入港股通标的",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b5e8a9b30857",
+    "title": "301314，重大资产重组方案公布！明天复牌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5883f130362d",
+    "title": "大动作！600025，重要收购",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-d33618155a20",
     "title": "Borr Drilling钻井平台在加蓬近海沉没，5人失踪",
     "source": "新浪体育",
@@ -586,118 +698,6 @@
   {
     "id": "news-58ab5aaa0453",
     "title": "OpenAI降价抢单成效显著 多家Anthropic客户编码业务“倒戈”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-d95b4ac5ee5b",
-    "title": "杠杆ETF新规落地后 韩国散户首次月度净买入押注反弹",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-cb29977c27d4",
-    "title": "SK集团会长崔泰源纽约牛排店合影流出 外界关注美国投资布局",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-77e0d143d5c7",
-    "title": "韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a6f82595ee05",
-    "title": "三星电子会长李在镕近日出访阿联酋 业内关注新增数据中心订单可能性",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8404b46dae01",
-    "title": "奥巴马为中期选举造势 抨击特朗普对伊战争、翻修白宫",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3e667ca2af90",
-    "title": "伊朗否认以霍尔木兹海峡换解除封锁的报道，称系\"谎言与幻想\"",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f0024bac47b6",
-    "title": "民调显示：博尔索纳罗与卢拉进入决胜轮前一日支持率持平",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-1082a6538d8d",
-    "title": "特朗普：暂未考虑赦免下属官员，但坚称自己拥有赦免权",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a258e9a5ac59",
-    "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-51f63cd83fdd",
-    "title": "特朗普称与马斯克谈过乌克兰局势",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-cb99e1a2e7f4",
-    "title": "大众计划在佐治亚新建奥迪工厂",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-be88255400dc",
-    "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-562d8823f685",
-    "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-06896f4f2873",
-    "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
