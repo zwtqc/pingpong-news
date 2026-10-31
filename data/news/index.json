@@ -464,8 +464,112 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-7dbb531e47c1",
+    "title": "日本央行加快ETF出售节奏 或为高市早苗支出计划提供资金支持",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-334afaa89562",
+    "title": "法国总统马克龙将于11月16日至17日访问马来西亚",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2d5dae46564b",
+    "title": "Anthropic招股文件披露：未来“隐性债务”规模近9000亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3f1f0247aa51",
+    "title": "85亿元全部押注AI相关项目！这只牛股还同步启动港股上市计划，年内涨幅超230%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-de2a0fdae76f",
+    "title": "央行：加快建设多层次现代化金融市场体系",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-092819e3afce",
+    "title": "惠誉将法国评级展望下调至负面 因该国财政状况恶化",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-533396b9a189",
+    "title": "选民口误称万斯为“总统先生”，全场起哄 万斯：你给我惹大麻烦了 特朗普曾称“万斯很有才干”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4108ddb2c442",
+    "title": "阿里巴巴与Apple达成合作：Apple智能11月4日开放测试，采用千问模型",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f65827e8955a",
+    "title": "OpenAI将融资目标下调100亿美元 估值1.25万亿美元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-37908b236fe2",
+    "title": "11月起，这些新规将影响你我生活！",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-035dbfc47ff6",
+    "title": "古巴常驻联合国代表团外交官遭美驱逐后回国",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f056c24e928c",
+    "title": "日本央行按兵不动“鹰”声不减：通胀风险抬头，12月加息渐近",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-c1098d8549ab",
     "title": "纳指跌超700点，英伟达市值一夜蒸发1.4万亿元，苹果市值重回全球第一，英特尔暴跌超28%，美股存储芯片重挫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-57bcc69825f7",
+    "title": "视频丨俄称俄美乌三方谈判具体日期仍在协调中",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -490,6 +594,30 @@
   {
     "id": "news-2b92d2168408",
     "title": "美国股市：纳斯达克100指数重挫3.5% AI投资疑虑加剧科技股抛售",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7d667f170840",
+    "title": "三季度FOF重仓债券ETF增至40只 配置工具持续丰富",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-64780aa6be66",
+    "title": "今日视点：让中国大市场成为世界大机遇",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b906693987c8",
+    "title": "美国务院批准向乌克兰出售500枚“爱国者”导弹",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -570,134 +698,6 @@
   {
     "id": "news-8a46f55d4a2b",
     "title": "惠誉将法国评级展望调整为负面 确认法国长期债务评级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-152eaaa33262",
-    "title": "三位美联储官员支持进一步加息 但步伐应循序渐进",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5479ea00d1ae",
-    "title": "俄外长：日本停止对俄不友好方可恢复全面对话",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8867b19c29b7",
-    "title": "美股财报季“惩罚效应”加剧 业绩不如预期个股遭到猛烈抛售",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-51dbff8e70bb",
-    "title": "纽约汇市：美元下跌 纳斯达克100指数逼近技术性回调",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b1d73959fdd5",
-    "title": "视频丨超1.5亿海外用户在看！中国爆款AI漫剧全球“刷屏”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a898d7662211",
-    "title": "比特币价格一个月来首次跌破77,000美元 币安事件令币圈雪上加霜",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6b067c5e4b66",
-    "title": "亚马逊设立800亿美元供应商相关融资安排 为AI投资提供资金",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3ea3501efc92",
-    "title": "纳斯达克100指数或将进入技术性回调 受到AI交易快速平仓拖累",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3ee320859c19",
-    "title": "美国批准对乌克兰潜在出售21亿美元的爱国者导弹",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fb32c6f5f6fb",
-    "title": "住房和食品占美国家庭支出近半 比重创15年最高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-95662d5229df",
-    "title": "10月31日热门中概股涨跌不一，台积电跌5.95%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0a42d71d023a",
-    "title": "欧洲央行首席经济学家：AI是欧元区经济增长的重要推动因素",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-abf6cfb25f98",
-    "title": "AI交易显露疲态 欧洲股市10月跑赢美股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-bc3c023747e3",
-    "title": "英特尔创逾四十年来最大盘中跌幅 因季度营收展望逊于预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7bf49dca750c",
-    "title": "圣路易斯联储行长称有必要进一步加息 而且应该尽快行动",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f20ae159de11",
-    "title": "欧洲债市：德国国债上涨 避险需求升温",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
