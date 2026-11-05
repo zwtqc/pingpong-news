@@ -464,6 +464,198 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-1531c3da73c5",
+    "title": "AI监管担忧冲击信用市场 SpaceX违约保险成本创纪录",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-01e00efa105e",
+    "title": "11月6日隔夜要闻：美股大跌 人工智能科技股遭遇重挫 中期选举后民主党高层呼吁限制人工智能产业扩张",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4e6525f8cd05",
+    "title": "大宗商品综述：油价上涨 铜价下跌 金价涨幅收窄",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-98034473bcb7",
+    "title": "11月6日美股成交额前20：英伟达大跌9.26%，市场普跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d3bb7e1b275c",
+    "title": "美股惨遭血洗 纳斯达克100指数在暴跌中蒸发2.3万亿美元市值",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-00de2470c9a5",
+    "title": "11月6日热门中概股多数上涨，阿里巴巴涨2.64%",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-61f4c46f0386",
+    "title": "原油：伊朗战争前景的不确定性推动油价上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-16b31ec255bf",
+    "title": "高盛新增109位合伙人 提拔规模为2010年来最大",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9293b9914fe0",
+    "title": "11月6日收盘：美股大跌，人工智能科技股遭遇重挫，道指暴跌1800点",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-9819b20c8083",
+    "title": "中期选举后民主党高层呼吁限制人工智能产业扩张：“立即暂停全国数据中心建设”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0482d1e79517",
+    "title": "以色列总统将于周日决定由谁组建政府",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fc29a03c48ad",
+    "title": "高盛股票交易台电话被打爆 但买盘仍不见踪影",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3d2f42d1ecb2",
+    "title": "11月6日外盘头条：美股惨遭血洗  民主党高层呼吁限制人工智能产业",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3145b84218a1",
+    "title": "伊朗通过卡塔尔向美国提出核方案",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-88ac2e089a6d",
+    "title": "共和党中期选举一败涂地 传言国务卿卢比奥考虑离开特朗普政府",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b894ac672a27",
+    "title": "美国国税局上调2027年遗产税和赠与税免税额",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c3d7b4003d7b",
+    "title": "民主党荣耀夜也是2028试金石 潜在总统候选人政治行情显端倪",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4bd6658cb62d",
+    "title": "纽约汇市：美元走势震荡 芯片股拖累股市下跌",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d6756d591d45",
+    "title": "微软对押注“新云”渐生悔意 加强审查部分数据中心项目",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d2af2597bfb5",
+    "title": "欧洲债市：避险需求推动德国国债全线上涨",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8c945a70d00e",
+    "title": "银行倒闭引发巴拉圭政局危机 特朗普盟友培尼亚辞去总统职务",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-ad30c45228bc",
+    "title": "参议院少数党领袖舒默列出民主党优先事项",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a412d7bd0950",
+    "title": "欧洲股市逆转涨势 受到科技股和国防股下跌拖累",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-71bb58181bce",
+    "title": "英国央行2023年以来首次加息 并释放鹰派信号",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-33537f124eda",
     "title": "报道：赫格塞斯扩大华盛顿特区国民警卫队部署",
     "source": "新浪体育",
@@ -506,198 +698,6 @@
   {
     "id": "news-ccc27765d926",
     "title": "对冲基金Walleye将向投资者返还部分资本",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-124c3083885a",
-    "title": "房利美、房地美延续选后跌势 两日累计跌约25%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4a2ecd87a438",
-    "title": "谷歌加入科技企业裁员大潮",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3862e869d11d",
-    "title": "报道：官员称伊朗正在审议关于其核计划的“具体提案”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-deddffc031e1",
-    "title": "苹果一年多来首次发债 拟筹资约70亿美元",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9d8fa5b4f0d0",
-    "title": "非A 板块股票集体上涨，而华盛顿政局又为这波行情添了一把火",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-12bf12c0b35d",
-    "title": "民主党大胜引发市场对合并前景、AI建设担忧，SpaceX与特斯拉股价大跌",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-df6d265b7045",
-    "title": "盈利展望不及预期，分析师对高通态度趋于平淡",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-5e52ca28d1e7",
-    "title": "亿客行CEO：AI智能代理尚未改变用户预订习惯",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-85a2d503cb7f",
-    "title": "马克・洛尔旗下Wonder秘密递交IPO申请",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e9342b7044de",
-    "title": "新一届国会或将重启的三项针对富人的税收提案",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dc8ac02ef000",
-    "title": "英伟达等美国芯片股抛售加剧 人工智能交易担忧笼罩市场",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b410c1b2f768",
-    "title": "高通财报公布后大跌11.3%，引领大选过后芯片股抛售潮",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-96f3fcc259d8",
-    "title": "俄罗斯建议公民暂缓赴伊朗 警惕局势再次升级",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-16ca33dabe83",
-    "title": "里士满联储行长：加息应保持循序渐进步伐",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3d5087539072",
-    "title": "纳斯达克跌入调整区，道指暴跌800点，投资者大举抛售科技股",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a3f02784e65c",
-    "title": "芯片股抛售加剧 纳斯达克100指数下跌逾3%",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-9992460877af",
-    "title": "民主党掌控参议院后，将调查摩根大通与爱泼斯坦的业务往来",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b82e867c7bcc",
-    "title": "巴尔金预计后续仍要加息，但节奏将趋于渐进",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-aa44ac6bcb8b",
-    "title": "里士满联储行长巴尔金：后续仍有加息空间，但节奏将偏渐进",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b46b484fe142",
-    "title": "民主党大获全胜，加密行业在华盛顿转入守势",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-89178ddd1ef0",
-    "title": "克利夫兰联储行长表示利率需要具有限制性以遏制通胀",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-fe52392e08e0",
-    "title": "开盘：三大股指涨跌不一 资金连续第2日从科技股流出",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b756901349e8",
-    "title": "华尔街亿万富豪如何看待民主党中期选举大获全胜",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-81f93abb6f16",
-    "title": "美联储调查：银行放贷趋于谨慎，这对经济意味着什么",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
