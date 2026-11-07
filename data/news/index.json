@@ -464,6 +464,134 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-6c1feb5f32e3",
+    "title": "美军组建特别工作组 阻断伊朗先进武器和受制裁物资运输路线",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-390052eebd0b",
+    "title": "伯克希尔第三季度回购96亿美元股票 保险业务拖累利润 现金储备攀升",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8ea99a88f631",
+    "title": "欧洲央行行长拉加德：通胀在近期内可能仍将居高不下",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-18d018d553c1",
+    "title": "伯克希尔哈撒韦第三季度回购规模翻倍，利润下降",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-fa2ce81131c3",
+    "title": "直击进博会｜对话博世舒适科技关宇：AI的融入不仅是生产力的提升，更是生产关系的改变",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-29f934150e4d",
+    "title": "民主党在美国中期选举中获胜，伊朗战争升级的风险仍然很高",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f2ad33c800ee",
+    "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-7e192413e883",
+    "title": "英伟达CEO黄仁勋之女据悉取消原定韩国之行",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f62bf6626c36",
+    "title": "周汉民：上海要成为中企全球化的首选服务地，不只是出发地",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-629ab0767fa3",
+    "title": "国金证券牟一凌：核心蓝筹股的估值水平已经处于历史偏低水平",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-e227f473bb84",
+    "title": "伯克希尔哈撒韦第三季度加快股票回购，营业利润下滑",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-3eda674f4a8b",
+    "title": "2499元“推不倒”智能指环遭质疑，品牌店铺已下架产品",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-05677f3aca77",
+    "title": "“最强”厄尔尼诺来了，今年会是暖冬吗？",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-c3825e4fe09d",
+    "title": "伊朗称一艘油轮在霍尔木兹海峡东部海域起火",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-71ae6a5625de",
+    "title": "视频丨泽连斯基称美两党支持对乌很重要",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-6111e21313ab",
+    "title": "利用俄被冻结资产 乌克兰据称获得近500亿美元支持",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-92d24fe7bb4e",
     "title": "形势突变！史上最大IPO，估值或大幅下调",
     "source": "新浪体育",
@@ -474,6 +602,14 @@
   {
     "id": "news-2aeb35c37aa7",
     "title": "直击进博会|飞利浦九赴进博，携七大个护核心产品线集中亮相",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8193ae5ec2db",
+    "title": "又一A股公司，遭证监会立案！",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -562,142 +698,6 @@
   {
     "id": "news-c71bade3dbe6",
     "title": "直击进博会 | Arc‘teryx始祖鸟首次亮相进博会",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f2a1587cc487",
-    "title": "监管通报中的G2券商浮出水面，国盛证券为公募境外调研买单领警示函",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b5525788749e",
-    "title": "美国多名国会议员说将推动撤销不合理关税政策",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4b6ce1343903",
-    "title": "国家发改委再次召开民企座谈会，研究明年政策举措",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6132c21845e9",
-    "title": "英国大臣：尽管美国爆发抵制AI浪潮 英国不会放缓AI发展节奏",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2af3f6c9244a",
-    "title": "时隔30年首次 俄罗斯将从北极港口摩尔曼斯克出口生铁",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-eaab4ce1c716",
-    "title": "韩股下跌 韩国散户狂买美股 五日净买入规模超8月全月",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7694dcaa43e2",
-    "title": "澳大利亚总理呼吁美伊在美国中期选举后缓和紧张局势",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-43d7b028e796",
-    "title": "突然，净空头持仓暴增24.6万手！美联储，加息生变？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-34299aa141fe",
-    "title": "“蓝潮”如何重塑美国能源政策：扭转特朗普政策 淡化气候叙事 新能源与LNG并行",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ca3d02b65afb",
-    "title": "特朗普称本周末将就俄乌问题举行很多会谈",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-adeb38475e3c",
-    "title": "马斯克在得州投资2.25亿美元 民主党批评特殊优待拟收紧审查",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-7f3a644cee0d",
-    "title": "马斯克评估特斯拉与SpaceX合并之际 谷歌高管哈里森离任SpaceX独立董事",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ace76ccf0d41",
-    "title": "卡塔尔首相：美国仍愿通过外交途径解决伊朗冲突 不存在完美协议应争取缓和局势",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-0c11e15363cf",
-    "title": "加州亿万富豪税提案公投或被否决 全美富豪税推进遇挫",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-00a2d415992b",
-    "title": "美军再次“定点”打击伊朗 特朗普称摧毁了一处小型防空设施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-2f43dd955684",
-    "title": "【市场聚焦】黄金：机构预测跟踪",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8e38edd3a27b",
-    "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
