@@ -464,6 +464,86 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-ace76ccf0d41",
+    "title": "卡塔尔首相：美国仍愿通过外交途径解决伊朗冲突 不存在完美协议应争取缓和局势",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-0c11e15363cf",
+    "title": "加州亿万富豪税提案公投或被否决 全美富豪税推进遇挫",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-00a2d415992b",
+    "title": "美军再次“定点”打击伊朗 特朗普称摧毁了一处小型防空设施",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8e38edd3a27b",
+    "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-eee61900b919",
+    "title": "苹果：已有超10万款应用适配iPhone Duo",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-26786b055a17",
+    "title": "特朗普企图一扫中期选举阴霾 宣布将举办“全球规模最大的航展”",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-8a87c8309ecc",
+    "title": "万斯牵头与伊间接谈判 特朗普给外交尝试留出空间",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-1be926bfb129",
+    "title": "花旗搁置汽车零部件供应商Autokiniton 10亿美元贷款交易",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-968377747d7c",
+    "title": "特朗普称中期选举后会进行人事调整 但信任防长赫格塞思",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-348546051398",
+    "title": "墨西哥批准六项光伏项目 将新增近650MW装机",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-2ac23a826873",
     "title": "Arini旗舰基金年内亏损扩大至32% 并出售部分持仓",
     "source": "新浪体育",
@@ -618,86 +698,6 @@
   {
     "id": "news-2c0a470c11a8",
     "title": "美国9月份消费者信贷创接近四年来最大增幅",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8f86e7d5ccc6",
-    "title": "SpaceX股价一度上涨8.3% 受到马斯克讲话提振",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e8807b43420f",
-    "title": "旧金山联储行长称可能需要进一步加息以遏制通胀",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-428da2e1abcb",
-    "title": "特朗普任命长期助手米勒担任白宫幕僚长",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dbaab1661379",
-    "title": "纽约汇市：美元走强 美国就业数据支持加息预期",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6932454ccef5",
-    "title": "美国10月非农新增16.5万人远超预期 失业率降至4.1% 劳动力市场强劲",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-30d9b9ca99e0",
-    "title": "特朗普称正在与伊朗进行沟通",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-df7043c1af2b",
-    "title": "美国宣布新一轮与伊朗相关的制裁措施",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-8e37fbe4783a",
-    "title": "日本央行行长称尚不清楚2%的通胀率能维持多久",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-3d56ddc5eab6",
-    "title": "卡拉斯：任何俄乌和平协议的落实都需要欧盟参与",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c3ac171446ce",
-    "title": "泽连斯基称将继续打击俄炼油厂以回应俄军袭击",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
