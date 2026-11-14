@@ -464,8 +464,120 @@
     "is_chinese_related": true
   },
   {
+    "id": "news-020e8491178b",
+    "title": "Meta在意大利被罚款8.05亿欧元 涉未经明确同意访问用户相册",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-249e4ad18476",
+    "title": "美联储柯林斯：稳步、渐进加息是适宜之举",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-bea2a3473ead",
+    "title": "美国航班大乱持续 数千架次取消或延误",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-be9e38ab46de",
+    "title": "美国空管系统故障致4小时停飞，交通部长申请500亿升级资金",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-a3fd5c5155f6",
+    "title": "乌克兰“星盾”又被限速，泽连斯基痛批SpaceX",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-85bad184740b",
+    "title": "Meta被意大利数据保护机构罚款8.07亿欧元",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-14ef9fcca124",
+    "title": "英国央行委员格林：现在就通胀采取主动行动，才能将决策失误的负面影响降至最低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-d77bc136356d",
+    "title": "意大利表示支持德国加入下一代战斗机项目",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-2433f31f7db4",
+    "title": "英国央行首席经济学家：明年或需进一步加息，伊朗冲突结束可能性极低",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-4d02a166f355",
+    "title": "印尼总统下令提高国家在矿业收益中的分成比例",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-b7230bfc2e18",
+    "title": "特朗普据悉考虑暂缓对伊朗军事打击",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-f09fecb8b9bc",
+    "title": "泽连斯基称美国提出以让乌克兰加入北约来换取其放弃顿巴斯地区",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5a31d96683d4",
+    "title": "币安称计划下周全面恢复提现服务",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
     "id": "news-1ab0ad631f39",
     "title": "微软称服务已全面恢复 此前故障波及全球",
+    "source": "新浪体育",
+    "published_at": "",
+    "category": "media",
+    "is_chinese_related": false
+  },
+  {
+    "id": "news-5629086c5299",
+    "title": "黄仁勋时代落幕 英伟达面临三重考验",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
@@ -586,118 +698,6 @@
   {
     "id": "news-22da0e9b32c4",
     "title": "白宫呼吁放宽责任追究 鼓励AI企业上报安全事件",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-01c5d33bb4c4",
-    "title": "风投人士：黄仁勋离任给AI创企融资留下巨大缺口",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-279d0fe54bde",
-    "title": "麻疹疫情历史性反弹、数千人感染，美国失去“麻疹消除认证”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-e403dbedff28",
-    "title": "英伟达淡化CEO继任者传闻：尚未正式接触任何潜在人选，称一切猜测“为时过早”",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-51a9892eb58f",
-    "title": "“911”以来第二次全美停飞！已有超1.3万架次航班延误或取消",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-ee51ba1b08dd",
-    "title": "美联储副主席杰斐逊表态：通胀已成利率最重要的参考指标",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-417c8a27b59b",
-    "title": "Uber回应用户信息外泄：第三方数据泄露所致",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-4e7e8243c3b1",
-    "title": "美国民主党：马斯克应该保存乌克兰星链等记录",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-f47c9ffecc7f",
-    "title": "黄仁勋出事，Anthropic承压？",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-6c8c828403d9",
-    "title": "美国突发全国性航班停飞事件始末",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-dccf4cbb631b",
-    "title": "11月14日隔夜要闻：美股涨跌不一 油价两周连跌 金价周跌幅料3月以来最大 欧洲股市收于历史新高",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-555eaa111a6e",
-    "title": "黄仁勋风波持续发酵 英伟达创逾18个月来最差单周表现",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-b2593979bbbb",
-    "title": "美国全国航班停飞 FAA称出于安全原因",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-c995ce226dc4",
-    "title": "大宗商品综述：油价两周连跌 金价周跌幅料3月以来最大 锡供应吃紧",
-    "source": "新浪体育",
-    "published_at": "",
-    "category": "media",
-    "is_chinese_related": false
-  },
-  {
-    "id": "news-a397ede94aa3",
-    "title": "11月14日热门中概股多数上涨，拼多多涨1.86%，蔚来跌约5%",
     "source": "新浪体育",
     "published_at": "",
     "category": "media",
