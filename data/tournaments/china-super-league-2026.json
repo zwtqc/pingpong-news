@@ -4,8 +4,8 @@
   "name_zh": "中国乒乓球超级联赛",
   "level": "china_super_league",
   "category": "domestic",
-  "start_date": "2026-12-01",
-  "end_date": "2027-01-05",
+  "start_date": "2026-12-02",
+  "end_date": "2027-01-06",
   "location": {
     "city": "北京",
     "country": "CHN",
@@ -23,5 +23,5 @@
     }
   ],
   "status": "upcoming",
-  "updated_at": "2026-11-26T19:46:39.170018"
+  "updated_at": "2026-11-27T02:40:05.749541"
 }
